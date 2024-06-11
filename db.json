@@ -1,64 +1,124 @@
 {
-  "users": [
+  "products": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "productname": "Nandini Standardised Fresh Milk (Pouch Orange)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-818-897,pr-true,f-auto,q-80/cms/product_variant/f8921f30-0e1e-475a-b10f-404d32935328.png",
+      "quantity": "500ml",
+      "costprice": "₹25",
+      "description": " Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. Suitable for preparing tea/coffee, milk shakes and milk delights for people leading a fitness conscious lifestyle. To be consumed the same day.",
+      "country": "India",
+      "shelflife": "3 days",
+      "manufacturername": "Karnataka Co-Operative Milk Producer's Federation Limited",
+      "manufactureraddress": "Karnataka Co-Operative Milk Producer's Federation Limited, KMF Complex, D.R.College Post, Dr.M.H.Marigowda Road, Bengaluru-560 029."
     },
     {
       "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
+      "productname": "Nandini Thick Curd Pouch",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/33959736-0046-4f0d-9ec1-f1bb532c89be.jpeg",
+      "quantity": "500ml",
+      "costprice": "₹26",
+      "description": " Nandini Thick Curd Pouch - Enjoy the rich and creamy taste of Nandini Thick Curd, a delicious and nutritious dairy product that's perfect for adding a creamy touch to your meals. Made from high-quality milk and fermented to perfection, this thick and creamy curd is packed with probiotics and essential nutrients. Whether you enjoy it as a standalone snack, use it as a creamy dip for fruits and snacks, or pair it with your favorite Indian dishes, Nandini Thick Curd is sure to delight your taste buds.",
+      "country": "India",
+      "shelflife": "3 days",
+      "manufacturername": "Karnataka Co-Operative Milk Producer's Federation Limited",
+      "manufactureraddress": "Karnataka Co-Operative Milk Producer's Federation Limited, KMF Complex, D.R.College Post, Dr.M.H.Marigowda Road, Bengaluru-560 029."
     },
     {
       "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
+      "productname": "Coriander Leaves",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/8d42f6c5-4e11-436d-81c4-cc24a3b28bcc.jpeg",
+      "quantity": "100 g",
+      "costprice": "₹38",
+      "markedprice": "₹48",
+      "description": " Coriander leaves are utilized as a seasoning element in many different cuisines.",
+      "country": "India",
+      "shelflife": "3 days"
     },
     {
       "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
+      "productname": "Parrys White Label Sugar",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/57788d4a-730c-44ad-b559-9873eb253422.jpeg",
+      "quantity": "1 kg",
+      "costprice": "₹48",
+      "markedprice": "₹60",
+      "description": " Parry's Pure Refined Sugar plays a vital role in maintaining our health and is preferred for its quality, texture and flavor. It goes through best in class refinement and is refined to 99.9%. It contains uniform grain size and departs no residue.",
+      "country": "India",
+      "shelflife": "18 months",
+      "manufacturername": "E.I.D. PARRY (INDIA)",
+      "manufactureraddress": "E.I.D. PARRY (INDIA)LTD.138, KEEL ARUNGUNAM ROAD, NELLIKUPPAM-607105 CUDDALORE DISTRICT, TAMIL NADU"
     },
     {
       "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
+      "productname": "Lay's West Indies Hot 'n' Sweet Chilli Potato Chips",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/0051be8c-c6f0-43be-a534-82b6bc7d222a.jpeg",
+      "quantity": "50g",
+      "costprice": "₹20",
+      "description": " Taste the unbeatable blend of delectable Indian spices with best quality potatoes. From the everyday snack to the impromptu get-togethers, Lays chips are the perfect addition to any occasion. Whether its party time or family time, everyone loves gathering around the scrumptious bowl of chips.",
+      "country": "India",
+      "shelflife": "120 days",
+      "manufacturername": "Pepsico India Holdings Private Limited",
+      "manufactureraddress": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001."
     },
     {
       "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn"
+      "productname": "Lay's India's Magic Masala Potato Chips",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/5f134c5a-96e7-4a31-95be-aa3958d768c1.jpeg",
+      "quantity": "50 g",
+      "costprice": "₹20",
+      "description": " Taste the unbeatable blend of delectable Indian spices with the best quality potatoes. From the everyday snack to the impromptu get-togethers, Lay�s chips are the perfect addition to any occasion. Whether it�s party time or family time, everyone loves gathering around the chip bowl.About the brand: Lay�s, the world�s largest and favourite snack food brand, has steadily established itself as an indispensable part of India�s snacking culture since its launch in 1995.",
+      "country": "India",
+      "shelflife": "120days",
+      "manufacturername": "Pepsico India Holdings Private Limited",
+      "Manufacturer Address": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001."
     },
     {
       "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu"
+      "productname": "Onion",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/3383b1f8-c1be-4e07-ad30-74418513f8fc.jpeg",
+      "quantity": "1 kg",
+      "costprice": "₹53",
+      "markedprice": "₹66",
+      "description": " Onions are high in nutrients and have been linked to a variety of health benefits such as enhanced heart health, better blood sugar control, and greater bone density.",
+      "country": "India",
+      "shelflife": "7 days"
     },
     {
       "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
+      "productname": "Coca-Cola Soft Drink",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/f64aa80e-f2d0-4420-911b-d2b57d57d690.jpeg",
+      "quantity": "750 ml",
+      "costprice": "₹45",
+      "description": " Coca Cola Delight your guests with Coca Cola . It is the perfect drink for any weather. Gatherings are incomplete without it. One glass is never enough! So go ahead buy this product onlien today.",
+      "country": "India",
+      "shelflife": "120 days",
+      "manufacturername": "Coca-Cola India Pvt Ltd",
+      "Manufacturer Address": "Coca-Cola India Pvt Ltd, 1109/7/8/33, Piramat, Tal Mulshi, Pune, 412111, Maharashtra."
     },
     {
       "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
+      "productname": "Madhur Sugar/Sakkare - Refined",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/ad5dd0bf-cf60-4548-a64e-da84f2da2569.jpeg",
+      "quantity": "1 kg",
+      "costprice": "₹55",
+      "markedprice": "₹65",
+      "description": "  Let your days be sweeter with Madhur Sugar. Make mouth-watering sweets to suit your taste and let your special days be more special. The sugar is producedd from the best quality sugar canes. The sugar crystals and very easy to dissolve and are sparkling white.",
+      "country": "India",
+      "shelflife": "24 months",
+      "manufacturername": "Shree Renuka Sugars Ltd",
+      "Manufacturer Address": " Shree Renuka Sugars Limited Unit-1, R.S. No. 367, H,Munoli, Taluka Saundatti, Dist. Belgaum, Karnataka."
     },
     {
       "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
+      "productname": "Kwality Wall's Cornetto Double Chocolate Cone",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-852-894,pr-true,f-auto,q-80/cms/product_variant/e47950bc-1bca-4ba2-9dd8-47e984ea6b24.jpeg",
+      "quantity": "105 ml",
+      "costprice": "₹40",
+      "description": " Kwality Wall's Cornetto Double Chocolate frozen dessert comes with its scrumptious and unique flavours and is sure to add different shades of dynamism to the lives of many children!",
+      "country": "India",
+      "shelflife": "12 months",
+      "manufacturername": "Hindustan Unilever Limited",
+      "Manufacturer Address": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099."
     }
   ]
 }
