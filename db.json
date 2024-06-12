@@ -70,7 +70,7 @@
       "country": "India",
       "shelflife": "120days",
       "manufacturername": "Pepsico India Holdings Private Limited",
-      "Manufacturer Address": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001."
+      "manufactureraddress": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001."
     },
     {
       "id": 7,
@@ -93,7 +93,7 @@
       "country": "India",
       "shelflife": "120 days",
       "manufacturername": "Coca-Cola India Pvt Ltd",
-      "Manufacturer Address": "Coca-Cola India Pvt Ltd, 1109/7/8/33, Piramat, Tal Mulshi, Pune, 412111, Maharashtra."
+      "manufactureraddress": "Coca-Cola India Pvt Ltd, 1109/7/8/33, Piramat, Tal Mulshi, Pune, 412111, Maharashtra."
     },
     {
       "id": 9,
@@ -106,7 +106,7 @@
       "country": "India",
       "shelflife": "24 months",
       "manufacturername": "Shree Renuka Sugars Ltd",
-      "Manufacturer Address": " Shree Renuka Sugars Limited Unit-1, R.S. No. 367, H,Munoli, Taluka Saundatti, Dist. Belgaum, Karnataka."
+      "manufactureraddress": " Shree Renuka Sugars Limited Unit-1, R.S. No. 367, H,Munoli, Taluka Saundatti, Dist. Belgaum, Karnataka."
     },
     {
       "id": 10,
@@ -118,7 +118,328 @@
       "country": "India",
       "shelflife": "12 months",
       "manufacturername": "Hindustan Unilever Limited",
-      "Manufacturer Address": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099."
+      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099."
+    },
+
+    {
+      "id": 11,
+      "productname": "Fortune Sunlite Refined Sunflower Oil (Pouch)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/00463c55-c37c-4b6d-819a-b3b806a418ca.jpeg",
+      "quantity": "1l",
+      "costprice": "₹111",
+      "markedprice": "₹122",
+      "description": " Fortune Sunflower Oil is a light, healthy and nutritious cooking oil.Being rich in vitamins and consisting mainly of polyunsaturated fatty acids, it makes food easy to digest.",
+      "country": "India",
+      "shelflife": "9 months",
+      "manufacturername": "Adani Wilmar Limited",
+      "manufactureraddress": "Adani Wilmar Limited, Adani Corporate House, Shantigram, Near Vaishnodevi Circle, S G Highway, Ahmedabad-382421, Gujarat, India."
+    },
+    {
+      "id": 12,
+      "productname": "Nandus Chicken Curry Cut without Skin",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/affddb6d-ed08-4c27-8bfe-e76021cd48b4.jpeg",
+      "quantity": "500 g",
+      "costprice": "₹169",
+      "description": "Your Favourite chicken, cleaned and skin removed. Cook the way you like it.",
+      "country": "India",
+      "shelflife": "4 days",
+      "manufacturername": "Nandu's",
+      "manufactureraddress": "Nandu's, 377/61, 2nd Floor, 43rd Cross, 9th Main, 5th Block, Jayanagar, Bangalore."
+    },
+    {
+      "id": 13,
+      "productname": "Bisleri Packaged Drinking Water Jar",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/47d205bd-542b-4fe3-9ac4-663662756e3a.jpeg",
+      "quantity": "10 l",
+      "costprice": "₹110",
+      "description": "Water is a vital, life-giving substance that nourishes and rejuvenates us with its sparkling goodness. It is important for water to come from a source that can be trusted and is pure so that our health does not suffer. The water in a Bisleri Mineral Water is typically sourced from the best Himalayan Mountain sources before being purified and packaged for drinking purposes. The water contains traces of calcium, magnesium, pH factor and even TDS and chlorides. It is packaged using the best quality control procedures and follows a thorough inspection process before being sent out into the market.",
+      "country": "India",
+      "shelflife": "3 days",
+      "manufacturername": "BISLERI INTERNATIONAL PVT LTD",
+      "manufactureraddress": "BISLERI INTERNATIONAL PVT LTD, 29/33, UDAYAGIRI VILLAGE, DEVANAHALLI, BANGALORE-562110"
+    },
+    {
+      "id": 14,
+      "productname": "Brooke Bond Red Label Tea",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/ceb64e34-0e31-42c0-b0e3-018a99629892.jpeg",
+      "quantity": "250 g",
+      "costprice": "₹152",
+      "markedprice": "₹155",
+      "description": " Brooke Bond Red Label is one of India�s largest selling packaged tea brands. Brooke Bond Red Label Tea is a blend CTC tea with best quality leaves; processed in the unique Brooke Bond Tea Excellence Centre. Since 1869, Brooke Bond has brought you the perfect tasting tea experience with the best-chosen leaves. It was in 1903 that Brooke Bond launched �Red Label�.",
+      "country": "India",
+      "shelflife": "12 months",
+      "manufacturername": " Hindustan Unilever Limited",
+      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B D Sawant Marg, Chakala, Andheri E, Mumbai - 400099."
+    },
+    {
+      "id": 15,
+      "productname": "Kissan Mixed Fruit Jam",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/7017348f-21be-4a40-9c92-e4edb013ec76.jpeg",
+      "quantity": "200 g",
+      "costprice": "₹80",
+      "description": " Kissan Mixed Fruit Jam is a medley of flavours from 8 fruits such as Banana, Papaya, Apple, Pear, Pineapple, Mango, Grape and Orange blended in to one lip smacking jam.",
+      "country": "India",
+      "shelflife": "12 months",
+      "manufacturername": "Hindustan Unilever Limited",
+      "manufactureraddress": " Hindustan Unilever Limited, Unilever House, B.D. Sawant Marg, Chakala, Andheri E, Mumbai - 400099."
+    },
+    {
+      "id": 16,
+      "productname": "Britannia Nutri Choice Digestive Biscuits Packet",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/1a6f576c-cb15-4e7f-9ba0-76da0d36c4a0.jpeg",
+      "quantity": "100 g",
+      "costprice": "₹19",
+      "markedprice": "₹20",
+      "description": " Britannia NutriChoice Digestive Biscuits are fibre rich biscuits packed with the richness of wheat flour (atta) and bran. With every bite, you experience the coarseness of this fibre rich healthy biscuit. These Digestive cookies are baked to precision, making it a perfect healthy snack.",
+      "country": "India",
+      "shelflife": "180 days",
+      "manufacturername": " Britannia Industries Limited",
+      "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048."
+    },
+    {
+      "id": 17,
+      "productname": "Parle Hide & Seek Chocolate Biscuits",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/a91e1ea8-22fb-4ab9-ac36-11da0d1bb10e.jpeg",
+      "quantity": "100 g",
+      "costprice": "₹27",
+      "markedprice": "₹30",
+      "description": " These cookies are made with the choicest ingredients to make your tea times filled with fun and frolic. Have them with tea, coffee or as a standalone snack and feel rejuvenated and full of energy",
+      "country": "India",
+      "shelflife": "7 days"
+    },
+    {
+      "id": 18,
+      "productname": "Chilli Green",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/831b1429-cec1-4178-811c-3fa88bf689f1.jpeg",
+      "quantity": "₹30",
+      "costprice": "₹38",
+      "description": "Green chilies are a frequent vegetable used in Indian cuisine because of its fiery flavor. Green chilies are scientifically referred to as Capsicum frutescens. Green chilies get their spiciness from a substance called capsaicin.",
+      "country": "India",
+      "shelflife": "4 days"
+    },
+    {
+      "id": 19,
+      "productname": "Vim Dishwash Bar",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/21e8833e-57f0-43f5-ac76-d403e862fb89.jpeg",
+      "quantity": "200 g x 4",
+      "costprice": "₹86",
+      "description": "  Vim dishwash bar easily removes the toughest of stains and does wonders in cleaning even in small quantities and provides the fastest removal of burnt food, reducing the overall time and effort required to clean the utensils. Vim dishwash bar provides a pleasant cleaning experience, as it gives a refreshing lemon fragrance during dishwash. It is the only dishwash bar which comes with a unique plastic coating at the bottom that prevents wastage and sogging and makes it last longer than ordinary bars. It can safely be used for cleaning all types of utensils like stainless steel, ceramic, non-stick ware, glass etc.",
+      "country": "India",
+      "shelflife": "24 months",
+      "manufacturername": "HUL"
+    },
+    {
+      "id": 20,
+      "productname": "Potato",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/78368889-25da-471d-8ab9-41b380fcf30b.jpeg",
+      "quantity": "105 ml",
+      "costprice": "₹57",
+      "markedprice": "₹71",
+      "description": " Potatoes are high in vitamin C, an antioxidant.Potassium, an electrolyte that helps our heart, muscles, and nervous system, is another important mineral in potatoes.The fiber, potassium, vitamin C, and vitamin B6 content of potatoes, together with their absence of cholesterol, all promote heart health. The fiber content of potatoes is high. Fiber reduces the total quantity of cholesterol in the blood, lowering the risk of heart disease.",
+      "country": "India",
+      "shelflife": " 5 days"
+    },
+
+    {
+      "id": 21,
+      "productname": "Parachute 100% Pure Coconut Oil Bottle",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/c4f0573e-45cc-4883-8519-8e291420c8eb.jpeg",
+      "quantity": "300 ml",
+      "costprice": "₹119",
+      "markedprice": "₹132",
+      "description": "Parachute Coconut oil- India s No.1 coconut oil contains only the goodness of 100% pure coconut oil. It is made from naturally sun-dried coconuts sourced from the finest farms of our country. The oil is extracted from the nuts through a meticulous hands free process.",
+      "country": "India",
+      "shelflife": "19 months",
+      "manufacturername": "Marico Limited",
+      "manufactureraddress": "Marico Limited, 7Th Floor, Grande Palladium, 175, Cst Road, Kalina, Santa Cruz (East), Mumbai."
+    },
+    {
+      "id": 22,
+      "productname": "Vietnamese Cold Coffee",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-5198-5198,pr-true,f-auto,q-80/cms/product_variant/833fc7f3-7c37-4391-8fe3-52b124bb4c9e.jpeg",
+      "quantity": "450ml",
+      "costprice": "₹189",
+      "markedprice": "₹199",
+      "description": "Featuring our specially roasted Mysore Nuggets dark roasted coffee, combined with condensed milk and a refreshing touch of ice, creating a delightful blend that encapsulates the essence of Vietnamese coffee culture. All Nutritional information is indicative, Values are per serve as shared by the restaurant and may vary depending on the ingredient and portion size. An average active adult requires 2,000 kcal energy per day, however, calorie needs may vary."
+    },
+    {
+      "id": 23,
+      "productname": "Earthmate Green Leaf Compostable Garbage Bags - Green Small (17 x 19 Inches)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1024-870,pr-true,f-auto,q-80/inventory/product/7448c130-279f-4450-bbbc-bcc3bcd7dd17-15bv1BfKC5Azlv8M8KLYvef-rjoWu3MAQ.jpeg",
+      "quantity": "15 pieces",
+      "costprice": "₹89",
+      "markedprice": "₹120",
+      "description": "Introducing eco-friendly compostable garbage bags! Crafted from plastarch material (PSM), derived from corn starch and plant-friendly materials, they're 100% environmentally safe. Designed to fit simplehuman trash cans seamlessly, these bags offer the most convenient solution for maintaining cleanliness and hygiene. Perfect for restaurants, beauty parlors, kitchens, washrooms, toilets, malls, and shops, these high-quality bags ensure efficient waste management with minimal environmental impact.",
+      "country": "India",
+      "manufacturername": "PARSHVA POLY IMPEX"
+    },
+    {
+      "id": 24,
+      "productname": "Aashirvaad Atta - Superior MP Whole Wheat, No Maida (Pouch)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-2560-2560,pr-true,f-auto,q-80/cms/product_variant/9759cfd9-8099-45fd-bba2-53df01b57c33.jpeg",
+      "quantity": "1 kg",
+      "costprice": "₹69",
+      "markedprice": "₹70",
+      "description": "  Launched on 27th May 2002, Aashirvaad Whole Wheat Atta has now become number one in branded packaged atta across the country. Behind every Aashirvaad pack are the Indian farmers and Aashirvaad experts who’ve made the atta with extra care. Aashirvaad prides itself in making 100% pure whole wheat atta with all its natural dietary fibres intact which ensures that you and your family receive optimum nutrition for a healthy life.",
+      "country": "India",
+      "shelflife": "90 days",
+      "manufacturername": "ITC Limited",
+      "manufactureraddress": " ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071"
+    },
+    {
+      "id": 25,
+      "productname": "Britannia Little Hearts, Heart Shaped Biscuits",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1500-1500,pr-true,f-auto,q-80/cms/product_variant/60e96aee-93ed-47bf-bcc3-504c79407ba6.jpeg",
+      "quantity": "75 g",
+      "costprice": "₹29",
+      "description": " Indulge in the playful spirit of Britannia Little Hearts, the iconic sugar-glazed biscuits that celebrate the lighter side of heartbreaks with the hashtag #BreakSomeHearts. These crunchy, heart-shaped delights are perfect for popping anytime, anywhere, offering a sweet and satisfying snack experience. With their irresistible sugar glaze and melt-in-the-mouth texture, Little Hearts are bound to leave you craving for more. Recognised for their iconic gold and red packaging, these biscuits are loved by all. So, gather your friends, grab a pack of Britannia Little Hearts, and join the fun as you #BreakSomeHearts with every delightful bite.",
+      "country": "India",
+      "shelflife": "6 months",
+      "manufacturername": "Britannia Industries Limited",
+      "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048."
+    },
+    {
+      "id": 26,
+      "productname": "MAGGI 2- Minute Instant Masala Noodles",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/1d766290-79b7-45e9-8314-83fea578bcf7.jpeg",
+      "quantity": "420g",
+      "costprice": "₹79",
+      "markedprice": "₹84",
+      "description": "  MAGGI 2-Minute instant masala noodles is a favorite among people of all ages. Maggi masala instant noodles now come with the goodness of iron. Each portion (70g) of maggi masala noodles provides you with 15% of your daily iron requirement. It is just the perfect choice for those who need a quick and satisfying meal. Maggi instant noodles are made with the choicest quality spices and ingredients to provide a great taste and experience.",
+      "country": "India",
+      "shelflife": "8 months",
+      "manufacturername": "Nestle India Ltd",
+      "manufactureraddress": "Nestle India Ltd, Nestle House, Jacaranda Marg M Block, DLF City Phase II, National Highway 8, Gurgaon 122 002, India."
+    },
+    {
+      "id": 27,
+      "productname": "Heritage Total Curd Pouch",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/ce2f76b0-1ef3-411e-8d8a-9147b9c43af0.jpeg",
+      "quantity": "475 g",
+      "costprice": "₹31",
+      "markedprice": "₹33",
+      "description": " Heritage curd made from pure and fresh buffalo milk and is thick and delicious.",
+      "country": "India",
+      "shelflife": "15 days",
+      "manufacturername": "Heritage Foods Limited",
+      "manufactureraddress": "Heritage Foods Ltd, 6-3-541/C, Panjagutta, Hyderabad-82"
+    },
+    {
+      "id": 28,
+      "productname": "Rin Detergent Powder",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/713d53c7-4e5f-4f9b-ba4e-adaac0062011.jpeg",
+      "quantity": "1kg",
+      "costprice": "₹105",
+      "markedprice": "₹107",
+      "description": " Rin Detergent Powder removes dirt from deep within the cloth fibre, thereby removing dullness from your clothes and comes with bright clean technology, making your clothes look bright like new. It is suitable for whites as well as coloured clothes.",
+      "country": "India",
+      "shelflife": " 24 months",
+      "manufacturername": "Hindustan Unilever Limited",
+      "Manufacturer Address": "Hindustan Unilever Limited, Unilever House, B D Sawant Marg, Chakala, Andheri E, Mumbai-400099."
+    },
+    {
+      "id": 29,
+      "productname": "NESCAFE Sunrise Instant Coffee- Chicory Mix Pouch",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/d05c7369-5b3b-4602-8c2b-18a8e87da727.jpeg",
+      "quantity": "50 g",
+      "costprice": "₹131",
+      "markedprice": "₹135",
+      "description": " Start your day bright with nescafe sunrise it all starts with handpicked beans from coffee farms in south india. These coffee beans are slow roasted to develop the perfect aroma which is retained using our world class expertise and captured in rich aroma granules. Enjoy the great aroma and taste in every cup with nescafe sunrise.",
+      "country": "India",
+      "shelflife": "15 months",
+      "manufacturername": "Nestle India Limited",
+      "manufactureraddress": " Nestle India Limited 100/101, World Trade Centre, Barakhamba Lane, New Delhi."
+    },
+    {
+      "id": 30,
+      "productname": "Sunpure Refined Sunflower Oil (Pouch)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-2130-3308,pr-true,f-auto,q-80/cms/product_variant/72e339c3-ead3-4f23-aafd-ffb1c81897c9.jpeg",
+      "quantity": "1 l",
+      "costprice": "₹113",
+      "markedprice": "₹130",
+      "description": " Sunpure Refined Sunflower Oil (Pouch) - Sunpure Refined Sunflower Oil is the ideal choice for everyday cooking. Extracted from premium sunflower seeds, this oil is refined to perfection, ensuring a light and delicate flavor that enhances the taste of your favorite dishes.",
+      "country": "India",
+      "shelflife": "180 days",
+      "manufacturername": "Sunpure Extracts Pvt Ltd",
+      "manufactureraddress": "Sunpure Extracts Pvt Ltd, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099."
+    },
+    {
+      "id": 31,
+      "productname": "Kurkure Masala Munch",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/5f566225-a69f-400f-af93-ec217b308892.jpeg",
+      "quantity": "100 g",
+      "costprice": "₹28",
+      "markedprice": "₹30",
+      "description": "The Masala Munch is a classic Kurkure flavour with a great combination of spice and crunch. About the brand: Kurkure is a crunchy, new-age Pack namkeen snack brand that symbolizes light-hearted fun. Embodying Pack the spirit of India, Kurkure has found a home in millions of hearts and minds and enjoy's the position of a strong love mark brand in India. Made with trusted kitchen ingredients: 100% vegetarian All the raw materials used in Kurkure comply with The Food Safety & Standards Act & Regulations 2006 and rules that govern the manufacture, distribution and sale of Kurkure.",
+      "country": "India",
+      "shelflife": "120 days",
+      "manufacturername": "Pepsico India Holdings Private Limited",
+      "manufactureraddress": " Pepsico India Holdings Private Limited, Level 3-5,Pioneer Square, Sector 62, Near Golf Course Extension Road,Gurugram-122101, Haryana,India."
+    },
+    {
+      "id": 32,
+      "productname": "Colgate MaxFresh Toothpaste, Red Gel Paste with Menthol for Super Fresh Breath (Spicy Fresh)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1500-1500,pr-true,f-auto,q-80/cms/product_variant/a9b11e9a-ff46-4568-afc1-d3060c422fd1.jpeg",
+      "quantity": "150g",
+      "costprice": "₹126",
+      "markedprice": "₹136",
+      "description": "Switch on the power of freshness with Colgate Maxfresh toothpaste that refreshes you and helps you seize the day because every morning is a fresh start. The red gel toothpaste contains unique cooling cyrstals that give you an intense cooling while you brush. For a better experience try with Colgate Gentle Enamel Toothbrush.",
+      "country":"India",
+      "manufacturername":"Colgate Palmolive India Ltd",
+      "manufactureraddress":"Colgate Research Centre, Main Street, Hiranandani Gardens, Mumbai-400076, Maharashtra."
+    },
+    {
+      "id": 33,
+      "productname": "Quaker Oats",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/6afd82ae-fcdb-4c79-ace0-5b5fd94c8307.jpeg",
+      "quantity": "400 g",
+      "costprice": "₹78",
+      "markedprice": "₹79",
+      "description": "Start your morning with a wholesome bowl of Quaker Oats- the perfect breakfast porridge for the whole family. Quaker oats are made from 100% whole grain oats, which is a natural source of carbohydrates, protein, and dietary fibre. It helps reduce the risk of high blood pressure and cholesterol. It is easy to prepare in just 3 minutes and blends into almost any recipe, enhancing its nutritional value without compromising on taste..",
+      "country": "India",
+      "shelflife":"12 months",
+      "manufacturername": "Pepsico India Ltd",
+      "manufactureraddress":" Pepsico India Ltd, DLF Corporate Park, S-Blk Qutab Enclave Phase III Gurgaon, Haryana."
+    },
+    {
+      "id": 34,
+      "productname": "Aashirvaad Iodised Salt",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-900-900,pr-true,f-auto,q-80/inventory/product/f5e3e70b-f1f0-4295-943b-62b5a214a412-1FYI3y_ewBAjobbBJ6oJLsga2Oh8XSqkb.jpeg",
+      "quantity": "1 kg",
+      "costprice": "₹23",
+      "markedprice": "₹28",
+      "description": "  Aashirvaad Iodised Salt is made with the 4-step advantage process which ensures its good quality. It has the right amount of iodine, which is vital for healthy physical growth and brain function. The salt undergoes a 2-step cleaning process and has moisture-proof packaging which gives it a free-flowing texture. This good quality salt ensures a balanced taste in your daily meals.",
+      "country": "India",
+      "shelflife": "12 months",
+      "manufacturername": "ITC Limited",
+      "manufactureraddress": " ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071"
+    },
+    {
+      "id": 35,
+      "productname": "Dabur Hommade Coconut Milk",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/d6143a14-b90a-4e1d-a42c-bdbf46d2ba1f.jpeg",
+      "quantity": "200 ml",
+      "costprice": "₹68",
+      "markedprice":"₹75",
+      "description": "  Dabur Homemade Coconut Milk is made from the first pressing extract of the best-grade coconuts and has a rich flavour and thick feel. It contains extract of two creamy coconuts and contains no added sugars.",
+      "country": "India",
+      "shelflife": "9 months",
+      "manufacturername": "Dabur India Limited",
+      "manufactureraddress": "Dabur India Limited, Plot No-22, Site 4, Sahibabad, Sahibabad Industrial Area, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh."
+    },
+    {
+      "id": 36,
+      "productname": "Tata Sampann Unpolished Toor Dal (Arhar Dal)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/9b4a5d15-d1dc-415d-8917-feb925e7314a.jpeg",
+      "quantity": "500 g",
+      "costprice": "₹132",
+      "markedprice": "₹148",
+      "description": " For most Indians, comfort food is always linked to easy-to-cook homemade meals and what can be the most convenient and quick to prepare dal. A staple in the Indian diet, Toor dal is rich in protein and can be enjoyed well with Rotis or rice. It can be used to prepare sambar, dal tadka, the Maharashtrian varan, and more. Tata Sampann Toor dal is unpolished as it does not undergo any artificial polishing with water, oil, or leather thereby retaining its goodness and wholesomeness.",
+      "country": "India",
+      "shelflife": "12 months",
+      "manufacturername": "Tata Chemicals Limited",
+      "manufactureraddress": "Tata Chemicals Limited, Leela Business Park, Andheri-kurla Road, Andheri East, Mumbai, Maharashtra - 400059."
     }
+
   ]
 }
