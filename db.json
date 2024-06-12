@@ -10,7 +10,9 @@
       "country": "India",
       "shelflife": "3 days",
       "manufacturername": "Karnataka Co-Operative Milk Producer's Federation Limited",
-      "manufactureraddress": "Karnataka Co-Operative Milk Producer's Federation Limited, KMF Complex, D.R.College Post, Dr.M.H.Marigowda Road, Bengaluru-560 029."
+      "manufactureraddress": "Karnataka Co-Operative Milk Producer's Federation Limited, KMF Complex, D.R.College Post, Dr.M.H.Marigowda Road, Bengaluru-560 029.",
+      "category": "Dairy,Bread & Eggs",
+      "subcategory": "Milk"
     },
     {
       "id": 2,
@@ -22,7 +24,9 @@
       "country": "India",
       "shelflife": "3 days",
       "manufacturername": "Karnataka Co-Operative Milk Producer's Federation Limited",
-      "manufactureraddress": "Karnataka Co-Operative Milk Producer's Federation Limited, KMF Complex, D.R.College Post, Dr.M.H.Marigowda Road, Bengaluru-560 029."
+      "manufactureraddress": "Karnataka Co-Operative Milk Producer's Federation Limited, KMF Complex, D.R.College Post, Dr.M.H.Marigowda Road, Bengaluru-560 029.",
+      "category": "Dairy,Bread & Eggs",
+      "subcategory": "Yogurts & Dahi"
     },
     {
       "id": 3,
@@ -33,7 +37,9 @@
       "markedprice": "₹48",
       "description": " Coriander leaves are utilized as a seasoning element in many different cuisines.",
       "country": "India",
-      "shelflife": "3 days"
+      "shelflife": "3 days",
+      "category": "Fruits & Vegetables",
+      "subcategory": "Leafy & Herbs"
     },
     {
       "id": 4,
@@ -46,7 +52,9 @@
       "country": "India",
       "shelflife": "18 months",
       "manufacturername": "E.I.D. PARRY (INDIA)",
-      "manufactureraddress": "E.I.D. PARRY (INDIA)LTD.138, KEEL ARUNGUNAM ROAD, NELLIKUPPAM-607105 CUDDALORE DISTRICT, TAMIL NADU"
+      "manufactureraddress": "E.I.D. PARRY (INDIA)LTD.138, KEEL ARUNGUNAM ROAD, NELLIKUPPAM-607105 CUDDALORE DISTRICT, TAMIL NADU",
+      "category": "Masala & DryFruits",
+      "subcategory": "Salt,Sugar & Juggery"
     },
     {
       "id": 5,
@@ -58,7 +66,9 @@
       "country": "India",
       "shelflife": "120 days",
       "manufacturername": "Pepsico India Holdings Private Limited",
-      "manufactureraddress": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001."
+      "manufactureraddress": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001.",
+      "category": "Munchies & Chips",
+      "subcategory": "Chips"
     },
     {
       "id": 6,
@@ -70,7 +80,9 @@
       "country": "India",
       "shelflife": "120days",
       "manufacturername": "Pepsico India Holdings Private Limited",
-      "manufactureraddress": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001."
+      "manufactureraddress": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001.",
+      "category": "Munchies & Chips",
+      "subcategory": "Chips"
     },
     {
       "id": 7,
@@ -81,7 +93,9 @@
       "markedprice": "₹66",
       "description": " Onions are high in nutrients and have been linked to a variety of health benefits such as enhanced heart health, better blood sugar control, and greater bone density.",
       "country": "India",
-      "shelflife": "7 days"
+      "shelflife": "7 days",
+      "category": "Fruits & Vegetables",
+      "subcategory": "Fresh Vegetables"
     },
     {
       "id": 8,
@@ -93,7 +107,9 @@
       "country": "India",
       "shelflife": "120 days",
       "manufacturername": "Coca-Cola India Pvt Ltd",
-      "manufactureraddress": "Coca-Cola India Pvt Ltd, 1109/7/8/33, Piramat, Tal Mulshi, Pune, 412111, Maharashtra."
+      "manufactureraddress": "Coca-Cola India Pvt Ltd, 1109/7/8/33, Piramat, Tal Mulshi, Pune, 412111, Maharashtra.",
+      "category": "Colddrinks & Juices",
+      "subcategory": "Softdrinks"
     },
     {
       "id": 9,
@@ -106,7 +122,9 @@
       "country": "India",
       "shelflife": "24 months",
       "manufacturername": "Shree Renuka Sugars Ltd",
-      "manufactureraddress": " Shree Renuka Sugars Limited Unit-1, R.S. No. 367, H,Munoli, Taluka Saundatti, Dist. Belgaum, Karnataka."
+      "manufactureraddress": " Shree Renuka Sugars Limited Unit-1, R.S. No. 367, H,Munoli, Taluka Saundatti, Dist. Belgaum, Karnataka.",
+      "category": "Masala & DryFruits",
+      "subcategory": "Salt,Sugar & Juggery"
     },
     {
       "id": 10,
@@ -118,7 +136,9 @@
       "country": "India",
       "shelflife": "12 months",
       "manufacturername": "Hindustan Unilever Limited",
-      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099."
+      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099.",
+      "category": "FrozenFood & IceCreams",
+      "subcategory": "Single Pack"
     },
 
     {
@@ -132,19 +152,24 @@
       "country": "India",
       "shelflife": "9 months",
       "manufacturername": "Adani Wilmar Limited",
-      "manufactureraddress": "Adani Wilmar Limited, Adani Corporate House, Shantigram, Near Vaishnodevi Circle, S G Highway, Ahmedabad-382421, Gujarat, India."
+      "manufactureraddress": "Adani Wilmar Limited, Adani Corporate House, Shantigram, Near Vaishnodevi Circle, S G Highway, Ahmedabad-382421, Gujarat, India.",
+      "category": "Atta,Rice,Oil & Dals",
+      "subcategory": "Oil"
     },
     {
       "id": 12,
-      "productname": "Nandus Chicken Curry Cut without Skin",
-      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/affddb6d-ed08-4c27-8bfe-e76021cd48b4.jpeg",
-      "quantity": "500 g",
-      "costprice": "₹169",
-      "description": "Your Favourite chicken, cleaned and skin removed. Cook the way you like it.",
+      "productname": "Nestle KitKat Crispy & Creamy 4 Finger Chocolate Coated Wafer",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/6cb963ed-ee42-4cab-8174-573a6113adc8.jpeg",
+      "quantity": "38.5 g",
+      "costprice": "₹27",
+      "markedprice": "₹30",
+      "description": "HAVE A BREAK HAVE A KITKAT! Nestle KitKat is the ideal partner for your breaks. The iconic creamy kitkat taste and crispy texture will delight your senses and make your breaks an enjoyable time. Indulge in the perfect balance of crispy wafers and creamy goodness making kitkat a perfect treat for every occasion. Enjoy this delicious crispy treat alone or share it with your loved ones. Please note : Outer Packing may vary depending on stock availability.",
       "country": "India",
-      "shelflife": "4 days",
-      "manufacturername": "Nandu's",
-      "manufactureraddress": "Nandu's, 377/61, 2nd Floor, 43rd Cross, 9th Main, 5th Block, Jayanagar, Bangalore."
+      "shelflife": "9 months",
+      "manufacturername": "Nestle India Limited",
+      "manufactureraddress": "Nestle India Limited, 100/101, World Trade Centre, Barakhamba Lane, New Delhi",
+      "category": "Sweet Cravings",
+      "subcategory": "Chocolates"
     },
     {
       "id": 13,
@@ -156,7 +181,9 @@
       "country": "India",
       "shelflife": "3 days",
       "manufacturername": "BISLERI INTERNATIONAL PVT LTD",
-      "manufactureraddress": "BISLERI INTERNATIONAL PVT LTD, 29/33, UDAYAGIRI VILLAGE, DEVANAHALLI, BANGALORE-562110"
+      "manufactureraddress": "BISLERI INTERNATIONAL PVT LTD, 29/33, UDAYAGIRI VILLAGE, DEVANAHALLI, BANGALORE-562110",
+      "category": "Colddrinks & Juices",
+      "subcategory": "Water"
     },
     {
       "id": 14,
@@ -169,7 +196,9 @@
       "country": "India",
       "shelflife": "12 months",
       "manufacturername": " Hindustan Unilever Limited",
-      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B D Sawant Marg, Chakala, Andheri E, Mumbai - 400099."
+      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B D Sawant Marg, Chakala, Andheri E, Mumbai - 400099.",
+      "category": "Tea,Coffee & More",
+      "subcategory": "Tea"
     },
     {
       "id": 15,
@@ -181,7 +210,9 @@
       "country": "India",
       "shelflife": "12 months",
       "manufacturername": "Hindustan Unilever Limited",
-      "manufactureraddress": " Hindustan Unilever Limited, Unilever House, B.D. Sawant Marg, Chakala, Andheri E, Mumbai - 400099."
+      "manufactureraddress": " Hindustan Unilever Limited, Unilever House, B.D. Sawant Marg, Chakala, Andheri E, Mumbai - 400099.",
+      "category": "BreakFast & Sauces",
+      "subcategory": "Honey & Spreads"
     },
     {
       "id": 16,
@@ -194,7 +225,9 @@
       "country": "India",
       "shelflife": "180 days",
       "manufacturername": " Britannia Industries Limited",
-      "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048."
+      "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048.",
+      "category": "Biscuits & Cookies",
+      "subcategory": "Digestives"
     },
     {
       "id": 17,
@@ -205,28 +238,37 @@
       "markedprice": "₹30",
       "description": " These cookies are made with the choicest ingredients to make your tea times filled with fun and frolic. Have them with tea, coffee or as a standalone snack and feel rejuvenated and full of energy",
       "country": "India",
-      "shelflife": "7 days"
+      "shelflife": "7 days",
+      "category": "Biscuits & Cookies",
+      "subcategory": "Creamfills"
     },
     {
       "id": 18,
       "productname": "Chilli Green",
       "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/831b1429-cec1-4178-811c-3fa88bf689f1.jpeg",
-      "quantity": "₹30",
+      "quantity": "100 g",
       "costprice": "₹38",
+      "markedprice": "₹34",
       "description": "Green chilies are a frequent vegetable used in Indian cuisine because of its fiery flavor. Green chilies are scientifically referred to as Capsicum frutescens. Green chilies get their spiciness from a substance called capsaicin.",
       "country": "India",
-      "shelflife": "4 days"
+      "shelflife": "4 days",
+      "category": "Fruits & Vegetables",
+      "subcategory": "Leafy & Herbs"
     },
     {
       "id": 19,
-      "productname": "Vim Dishwash Bar",
+      "productname": "Mother’s Recipe Mixed Pickle",
       "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/21e8833e-57f0-43f5-ac76-d403e862fb89.jpeg",
-      "quantity": "200 g x 4",
-      "costprice": "₹86",
-      "description": "  Vim dishwash bar easily removes the toughest of stains and does wonders in cleaning even in small quantities and provides the fastest removal of burnt food, reducing the overall time and effort required to clean the utensils. Vim dishwash bar provides a pleasant cleaning experience, as it gives a refreshing lemon fragrance during dishwash. It is the only dishwash bar which comes with a unique plastic coating at the bottom that prevents wastage and sogging and makes it last longer than ordinary bars. It can safely be used for cleaning all types of utensils like stainless steel, ceramic, non-stick ware, glass etc.",
+      "quantity": "400 g ",
+      "costprice": "₹108",
+      "markedprice": "₹140",
+      "description": "  Mothers Recipe Pickle - Mixed is prepared from dissimilar vegetables. It has the actual taste and spicy. A variety of carefully selected fruits & vegetables from across India are mixed in this unusual Indian pickle. Mango, carrot and lime come together in a great southern melange to include a touch of pleasure to you meal.",
       "country": "India",
-      "shelflife": "24 months",
-      "manufacturername": "HUL"
+      "shelflife": "18 months",
+      "manufacturername": " Desai Foods Pvt Ltd",
+      "manufactureraddress": "Desai Foods Pvt Ltd, 3rd Floor, Atur Chambers, 2A Moledina Road-411001, Pune, Maharashtra, India.",
+      "category": "Packaged Food",
+      "subcategory": "Papads,Pickles & Chutney"
     },
     {
       "id": 20,
@@ -237,41 +279,55 @@
       "markedprice": "₹71",
       "description": " Potatoes are high in vitamin C, an antioxidant.Potassium, an electrolyte that helps our heart, muscles, and nervous system, is another important mineral in potatoes.The fiber, potassium, vitamin C, and vitamin B6 content of potatoes, together with their absence of cholesterol, all promote heart health. The fiber content of potatoes is high. Fiber reduces the total quantity of cholesterol in the blood, lowering the risk of heart disease.",
       "country": "India",
-      "shelflife": " 5 days"
+      "shelflife": " 5 days",
+      "category": "Fruits & Vegetables",
+      "subcategory": "Fresh Vegetables"
     },
 
     {
       "id": 21,
-      "productname": "Parachute 100% Pure Coconut Oil Bottle",
+      "productname": "Gold Winner Refined Sunflower Oil (Jar)",
       "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/c4f0573e-45cc-4883-8519-8e291420c8eb.jpeg",
-      "quantity": "300 ml",
-      "costprice": "₹119",
-      "markedprice": "₹132",
-      "description": "Parachute Coconut oil- India s No.1 coconut oil contains only the goodness of 100% pure coconut oil. It is made from naturally sun-dried coconuts sourced from the finest farms of our country. The oil is extracted from the nuts through a meticulous hands free process.",
+      "quantity": "5 l",
+      "costprice": "₹563",
+      "markedprice": "₹635",
+      "description": "Gold Winner Refined Sunflower Oil is appreciated as improves heart health and reduces chance of heart attack.",
       "country": "India",
-      "shelflife": "19 months",
-      "manufacturername": "Marico Limited",
-      "manufactureraddress": "Marico Limited, 7Th Floor, Grande Palladium, 175, Cst Road, Kalina, Santa Cruz (East), Mumbai."
+      "shelflife": "15 months",
+      "manufacturername": "KALEESWARI REFINERY PVT LTD",
+      "manufactureraddress": " KALEESWARI REFINERY PVT LTD,1,MAMBAKKAM ROAD,VENGAIVASAL,CHENNAI-600126.",
+      "category": "Atta,Rice,Oil & Dals",
+      "subcategory": "Oil"
     },
     {
       "id": 22,
-      "productname": "Vietnamese Cold Coffee",
+      "productname": "Mountain Dew Soft Drink Pet",
       "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-5198-5198,pr-true,f-auto,q-80/cms/product_variant/833fc7f3-7c37-4391-8fe3-52b124bb4c9e.jpeg",
-      "quantity": "450ml",
-      "costprice": "₹189",
-      "markedprice": "₹199",
-      "description": "Featuring our specially roasted Mysore Nuggets dark roasted coffee, combined with condensed milk and a refreshing touch of ice, creating a delightful blend that encapsulates the essence of Vietnamese coffee culture. All Nutritional information is indicative, Values are per serve as shared by the restaurant and may vary depending on the ingredient and portion size. An average active adult requires 2,000 kcal energy per day, however, calorie needs may vary."
+      "quantity": "750 ml",
+      "costprice": "₹39",
+      "markedprice": "₹40",
+      "description": " Mountain Dew is the perfect drink for any weather. Gatherings are incomplete without it.",
+      "country": "India",
+      "shelflife": "119 days",
+      "manufacturername": "PepsiCo India",
+      "manufactureraddress": "PepsiCo India, 3B, DLF Corporate Park, S-Blk Qutab Enclave Phase III Gurgaon, Haryana, 122002.",
+      "category": "Colddrinks & Juices",
+      "subcategory": "Softdrinks"
     },
     {
       "id": 23,
-      "productname": "Earthmate Green Leaf Compostable Garbage Bags - Green Small (17 x 19 Inches)",
-      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1024-870,pr-true,f-auto,q-80/inventory/product/7448c130-279f-4450-bbbc-bcc3bcd7dd17-15bv1BfKC5Azlv8M8KLYvef-rjoWu3MAQ.jpeg",
-      "quantity": "15 pieces",
-      "costprice": "₹89",
-      "markedprice": "₹120",
-      "description": "Introducing eco-friendly compostable garbage bags! Crafted from plastarch material (PSM), derived from corn starch and plant-friendly materials, they're 100% environmentally safe. Designed to fit simplehuman trash cans seamlessly, these bags offer the most convenient solution for maintaining cleanliness and hygiene. Perfect for restaurants, beauty parlors, kitchens, washrooms, toilets, malls, and shops, these high-quality bags ensure efficient waste management with minimal environmental impact.",
+      "productname": "Bru Instant Coffee",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/acc44780-935c-4678-b25f-7ffea5793494.jpeg",
+      "quantity": "100 g",
+      "costprice": "₹234",
+      "markedprice": "₹260",
+      "description": "BRU Instant Coffee was launched in 1968 and was India�s first Coffee - Chicory based instant coffee. It has remained India�s beloved & trusted coffee brand since then. With over 50+ years experience in the world of coffee, Bru strives to bring the best coffee experience to you! We understand that great coffee starts at source. That�s why we source the finest coffee from South Indian Plantations. The coffee beans are first roasted to perfection then the new & enhanced process ensures that the fresh coffee aroma is preserved so that you can enjoy the signature Bru aroma with every cup. Bru Instant has a characteristic caramellic & chocolaty taste which gives you a delicious cup of hot & refreshing cold coffee!",
       "country": "India",
-      "manufacturername": "PARSHVA POLY IMPEX"
+      "shelflife": " 18 months",
+      "manufacturername": "Hindustan Unilever Ltd",
+      "manufactureraddress": " Hindustan Unilever Limited, Unilever House, B.D. Sawant Marg, Chakala, Andheri E, Mumbai - 400099.",
+      "category": "Tea,Coffee & More",
+      "subcategory": "Coffee"
     },
     {
       "id": 24,
@@ -284,7 +340,9 @@
       "country": "India",
       "shelflife": "90 days",
       "manufacturername": "ITC Limited",
-      "manufactureraddress": " ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071"
+      "manufactureraddress": " ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071",
+      "category": "Atta,Rice,Oil & Dals",
+      "subcategory": "Atta & Other Flours"
     },
     {
       "id": 25,
@@ -296,7 +354,9 @@
       "country": "India",
       "shelflife": "6 months",
       "manufacturername": "Britannia Industries Limited",
-      "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048."
+      "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048.",
+      "category": "Biscuits & Cookies",
+      "subcategory": "Cookies"
     },
     {
       "id": 26,
@@ -309,7 +369,9 @@
       "country": "India",
       "shelflife": "8 months",
       "manufacturername": "Nestle India Ltd",
-      "manufactureraddress": "Nestle India Ltd, Nestle House, Jacaranda Marg M Block, DLF City Phase II, National Highway 8, Gurgaon 122 002, India."
+      "manufactureraddress": "Nestle India Ltd, Nestle House, Jacaranda Marg M Block, DLF City Phase II, National Highway 8, Gurgaon 122 002, India.",
+      "category": "Packaged Food",
+      "subcategory": "Noodles & Vermicelli"
     },
     {
       "id": 27,
@@ -322,33 +384,39 @@
       "country": "India",
       "shelflife": "15 days",
       "manufacturername": "Heritage Foods Limited",
-      "manufactureraddress": "Heritage Foods Ltd, 6-3-541/C, Panjagutta, Hyderabad-82"
+      "manufactureraddress": "Heritage Foods Ltd, 6-3-541/C, Panjagutta, Hyderabad-82",
+      "category": "Dairy,Bread & Eggs",
+      "subcategory": "Yogurts & Dahi"
     },
     {
       "id": 28,
-      "productname": "Rin Detergent Powder",
-      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/713d53c7-4e5f-4f9b-ba4e-adaac0062011.jpeg",
-      "quantity": "1kg",
-      "costprice": "₹105",
-      "markedprice": "₹107",
-      "description": " Rin Detergent Powder removes dirt from deep within the cloth fibre, thereby removing dullness from your clothes and comes with bright clean technology, making your clothes look bright like new. It is suitable for whites as well as coloured clothes.",
+      "productname": "Cadbury Dairy Milk Silk Chocolate Bar",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/c80e397c-2dc9-4408-9451-e5038cdabe9b.jpeg",
+      "quantity": "155g",
+      "costprice": "₹185",
+      "markedprice": "₹210",
+      "description": " Silk: The classic taste of Cadbury Dairy Milk chocolates only more creamy, smooth & indulging. Made with a glass and a half of milk. This milk chocolate bar is a perfect sweet to indulge in all alone or as a chocolate gift pack for gifting on special occasions like birthdays and get-togethers. Made from 100% sustainably sourced cocoa and suitable for vegetarians.",
       "country": "India",
-      "shelflife": " 24 months",
-      "manufacturername": "Hindustan Unilever Limited",
-      "Manufacturer Address": "Hindustan Unilever Limited, Unilever House, B D Sawant Marg, Chakala, Andheri E, Mumbai-400099."
+      "shelflife": "12 months",
+      "manufacturername": "Mondelez India Foods Private Limited",
+      "manufactureraddress": "Mondelez India Food Pvt. Ltd, Unit No. 2001, 20th Floor, Tower-3 (Wing C), Indiabulls Finance Centre, Parel, Mumbai, Maharashtra.",
+      "category": "Sweet Cravings",
+      "subcategory": "Chocolates"
     },
     {
       "id": 29,
-      "productname": "NESCAFE Sunrise Instant Coffee- Chicory Mix Pouch",
-      "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/d05c7369-5b3b-4602-8c2b-18a8e87da727.jpeg",
-      "quantity": "50 g",
-      "costprice": "₹131",
-      "markedprice": "₹135",
-      "description": " Start your day bright with nescafe sunrise it all starts with handpicked beans from coffee farms in south india. These coffee beans are slow roasted to develop the perfect aroma which is retained using our world class expertise and captured in rich aroma granules. Enjoy the great aroma and taste in every cup with nescafe sunrise.",
+      "productname": "Sugarfree Natura Low Calorie Sweetener (Jar)",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/6562875b-b4e1-47ed-8ead-08a683daed2b.jpeg",
+      "quantity": "100 g",
+      "costprice": "₹156",
+      "markedprice": "₹159",
+      "description": " Sugarfree Natura made using Sucralose which is a derivative of Sugar. Sucralose tastes like Sugar, but doesn't contain the same amount of calories. Thus, it allows you to enjoy the sweet flavour of sugar without having to worry about gaining excess calories. � Ideal for cooking and baking: Sucralose is highly heated stable, which means you can cook and bake with it without any loss in sweetness. It can be used for making a wide variety of preparations- hot and cold beverages, mithais, desserts, cakes etc. It is ideal for fitness seekers, weight-conscious & diabetics. 1 measured spoon (of 0.5 gms, provided inside the pack) is equivalent in sweetness to 1 teaspoon of Sugar",
       "country": "India",
-      "shelflife": "15 months",
-      "manufacturername": "Nestle India Limited",
-      "manufactureraddress": " Nestle India Limited 100/101, World Trade Centre, Barakhamba Lane, New Delhi."
+      "shelflife": "24 months",
+      "manufacturername": "Zydus Wellness Sikkim",
+      "manufactureraddress": "  Zydus Wellness Sikkim, Mamring Forest Block, Sikkim 737132.",
+      "category": "Masala & DryFruits",
+      "subcategory": "Salt,Sugar & Juggery"
     },
     {
       "id": 30,
@@ -361,7 +429,9 @@
       "country": "India",
       "shelflife": "180 days",
       "manufacturername": "Sunpure Extracts Pvt Ltd",
-      "manufactureraddress": "Sunpure Extracts Pvt Ltd, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099."
+      "manufactureraddress": "Sunpure Extracts Pvt Ltd, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099.",
+      "category": "Atta,Rice,Oil & Dals",
+      "subcategory": "Oil"
     },
     {
       "id": 31,
@@ -374,32 +444,39 @@
       "country": "India",
       "shelflife": "120 days",
       "manufacturername": "Pepsico India Holdings Private Limited",
-      "manufactureraddress": " Pepsico India Holdings Private Limited, Level 3-5,Pioneer Square, Sector 62, Near Golf Course Extension Road,Gurugram-122101, Haryana,India."
+      "manufactureraddress": " Pepsico India Holdings Private Limited, Level 3-5,Pioneer Square, Sector 62, Near Golf Course Extension Road,Gurugram-122101, Haryana,India.",
+      "category": "Munchies & Chips",
+      "subcategory": "Chips"
     },
     {
       "id": 32,
-      "productname": "Colgate MaxFresh Toothpaste, Red Gel Paste with Menthol for Super Fresh Breath (Spicy Fresh)",
+      "productname": "Kwality Wall's Cornetto Oreo Disc Cone",
       "url": "https://cdn.zeptonow.com/production///tr:w-350,ar-1500-1500,pr-true,f-auto,q-80/cms/product_variant/a9b11e9a-ff46-4568-afc1-d3060c422fd1.jpeg",
-      "quantity": "150g",
-      "costprice": "₹126",
-      "markedprice": "₹136",
-      "description": "Switch on the power of freshness with Colgate Maxfresh toothpaste that refreshes you and helps you seize the day because every morning is a fresh start. The red gel toothpaste contains unique cooling cyrstals that give you an intense cooling while you brush. For a better experience try with Colgate Gentle Enamel Toothbrush.",
-      "country":"India",
-      "manufacturername":"Colgate Palmolive India Ltd",
-      "manufactureraddress":"Colgate Research Centre, Main Street, Hiranandani Gardens, Mumbai-400076, Maharashtra."
+      "quantity": "110 ml",
+      "costprice": "₹70",
+      "markedprice": "₹80",
+      "description": " Kwality Wall's Cornetto Oreo DiscÃ‚ Cone is a delicious frozen dessert cone that combines the classic flavors of Oreo cookies with creamy vanilla frozen dessert. Each cone features a crunchy chocolate disc at the bottom, filled with Oreo cookie crumbles and topped with a swirl of creamy vanilla frozen dessert. Indulge in the irresistible taste of Oreo cookies and vanilla frozen dessert with Kwality Wall's Cornetto Oreo Disc Cone. Treat yourself to a moment of pure indulgence with every bite. ",
+      "country": "India",
+      "shelflife": "12 months",
+      "manufacturername": "Hindustan Unilever Limited",
+      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099.",
+      "category": "FrozenFood & IceCreams",
+      "subcategory": "Single Pack"
     },
     {
       "id": 33,
-      "productname": "Quaker Oats",
+      "productname": "Dabur 100% Pure Honey",
       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/6afd82ae-fcdb-4c79-ace0-5b5fd94c8307.jpeg",
-      "quantity": "400 g",
-      "costprice": "₹78",
-      "markedprice": "₹79",
-      "description": "Start your morning with a wholesome bowl of Quaker Oats- the perfect breakfast porridge for the whole family. Quaker oats are made from 100% whole grain oats, which is a natural source of carbohydrates, protein, and dietary fibre. It helps reduce the risk of high blood pressure and cholesterol. It is easy to prepare in just 3 minutes and blends into almost any recipe, enhancing its nutritional value without compromising on taste..",
+      "quantity": "800 g",
+      "costprice": "₹311",
+      "markedprice": "₹399",
+      "description": "Dabur 100% Pure Honey - Indulge in the rich and flavorful taste of Dabur 100% Pure Honey. Sourced from the finest apiaries, this honey is raw, unprocessed, and full of natural goodness. With its rich aroma and distinct flavor, it's perfect for sweetening your tea, drizzling over yogurt, or adding to your favorite recipes. Packed with antioxidants and enzymes, it offers a range of health benefits and is a delicious addition to any diet. Enjoy the pure and natural taste of Dabur 100% Pure Honey.",
       "country": "India",
-      "shelflife":"12 months",
-      "manufacturername": "Pepsico India Ltd",
-      "manufactureraddress":" Pepsico India Ltd, DLF Corporate Park, S-Blk Qutab Enclave Phase III Gurgaon, Haryana."
+      "shelflife": "12 months",
+      "manufacturername": "Dabur India Limited",
+      "manufactureraddress": " Dabur India Limited, Plot No-22, Site 4, Sahibabad, Sahibabad Industrial Area, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh.",
+      "category": "BreakFast & Sauces",
+      "subcategory": "Honey & Spreads"
     },
     {
       "id": 34,
@@ -412,20 +489,24 @@
       "country": "India",
       "shelflife": "12 months",
       "manufacturername": "ITC Limited",
-      "manufactureraddress": " ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071"
+      "manufactureraddress": " ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071",
+      "category": "Masala & DryFruits",
+      "subcategory": "Salt,Sugar & Juggery"
     },
     {
       "id": 35,
-      "productname": "Dabur Hommade Coconut Milk",
+      "productname": "Amul Fruit 'N' Nut Chocolate",
       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/d6143a14-b90a-4e1d-a42c-bdbf46d2ba1f.jpeg",
-      "quantity": "200 ml",
-      "costprice": "₹68",
-      "markedprice":"₹75",
-      "description": "  Dabur Homemade Coconut Milk is made from the first pressing extract of the best-grade coconuts and has a rich flavour and thick feel. It contains extract of two creamy coconuts and contains no added sugars.",
+      "quantity": "150 g",
+      "costprice": "₹196",
+      "markedprice": "₹200",
+      "description": " Crunchy almonds and handpicked juicy raisins, studded in the smooth texture of dark chocolate. Amul Fruit 'N' Nut Chocolate is a classic combination of 55% cocoa, chocolate with delicious bits of fruit n nut, which has been celebrated for decades and relished even today.",
       "country": "India",
-      "shelflife": "9 months",
-      "manufacturername": "Dabur India Limited",
-      "manufactureraddress": "Dabur India Limited, Plot No-22, Site 4, Sahibabad, Sahibabad Industrial Area, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh."
+      "shelflife": "12 months",
+      "manufacturername": "Gujarat Co-Operative Milk Marketing Federation",
+      "manufactureraddress": "Gujarat Co-Operative Milk Marketing Federation, Po Box 10, Amul Dairy Road, Anand 388 001, Gujarat, India.",
+      "category": "Sweet Cravings",
+      "subcategory": "Chocolates"
     },
     {
       "id": 36,
@@ -438,8 +519,9 @@
       "country": "India",
       "shelflife": "12 months",
       "manufacturername": "Tata Chemicals Limited",
-      "manufactureraddress": "Tata Chemicals Limited, Leela Business Park, Andheri-kurla Road, Andheri East, Mumbai, Maharashtra - 400059."
+      "manufactureraddress": "Tata Chemicals Limited, Leela Business Park, Andheri-kurla Road, Andheri East, Mumbai, Maharashtra - 400059.",
+      "category": "Atta,Rice,Oil & Dals",
+      "subcategory": "Dals & Pulses"
     }
-
   ]
 }
