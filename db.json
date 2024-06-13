@@ -562,8 +562,8 @@
       "shelflife": "6 months",
       "manufacturername": "Britannia Industries Limited",
       "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048.",
-      "category": "Fruits & Vegetables",
-      "subcategory": "Leafy & Herbs"
+      "category": "Biscuits & Cookies",
+      "subcategory": "Cookies"
     },
     {
       "id": 40,
@@ -1066,10 +1066,10 @@
       "description": "   Kwality Wall's Darkly Divine Chocolate Sensation Tub is a luxurious frozen dessert that combines the intense flavors of dark chocolate with the creamy richness of vanilla frozen dessert. Made with premium ingredients, this frozen dessert is perfect for indulging your sweet tooth any time of day. Whether you're craving a midnight snack or treating yourself after dinner, Kwality Wall's Darkly Divine Chocolate Sensation Tub is sure to satisfy your cravings. Treat yourself to a moment of pure indulgence with every spoonful.",
       "country": "India",
       "shelflife": "12 months",
-      "manufacturername": " Walko QSR Company Pvt Ltd",
-      "manufactureraddress": "Walko QSR Company Pvt Ltd, No 50, Gokhale Rd, Dadar West, Dadar, Mumbai, Maharashtra 400028.",
-      "category": "Hindustan Unilever Limited",
-      "subcategory": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099."
+      "manufacturername": "Hindustan Unilever Limited",
+      "manufactureraddress": "Hindustan Unilever Limited, Unilever House, B.D.Sawant Marg, Chakala, Andheri (E), Mumbai - 400 099.",
+      "category": "FrozenFood & IceCreams",
+      "subcategory": "Single Pack"
     },
     {
       "id": 74,
