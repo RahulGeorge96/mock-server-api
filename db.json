@@ -758,18 +758,16 @@
 
     {
       "id": 53,
-      "productname": "Safal Frozen Green Peas",
-      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/f71348d6-db9e-4ae1-abe1-d4dc7d13daf3.jpeg",
+      "productname": "Apple Royal Gala",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/9f4bf44a-a214-401c-8092-1d4593bffacb.jpeg",
       "quantity": "500 g",
-      "costprice": 118,
-      "markedprice": "₹135",
-      "description": "Safal Frozen Green Peas 1 kg Green peas are a great source of nourishment that contains a high level of protein and fibre. Safal Frozen Green Peas are frozen to perfection, preserving their unique taste, freshness and nutrition. They make a great addition to curries, salads and sandwiches. Frozen peas have a longer shelf life which saves you the hassle of peeling or acquiring fresh peas when needed.",
-      "country": "India",
-      "shelflife": "12 months",
-      "manufacturername": "Mother Dairy Fruit & Vegetable Pvt Ltd",
-      "manufactureraddress": "Mother Dairy Fruit & Vegetable Pvt Ltd, Fruit And Vegetable Unit, Mangolpuri, Industrial Area, Phase 1, Delhi -110083.",
+      "costprice": 191,
+      "markedprice": "₹239",
+      "description": "Gala apples offer many health-promoting antioxidants throughout their ripening stages. Gala apples are a significant source of antioxidants, which may help lower the risk of heart disease, diabetes and cancer. They are a good source of vitamin C and dietary fiber. Gala apples possess pectin — a natural fiber — which has been shown to reduce cholesterol and help prevent heart disease.",
+      "country": " Polland",
+      "shelflife": "9 days",
       "category": "Fruits & Vegetables",
-      "subcategory": "Frozen Veggies "
+      "subcategory": "Fresh Fruits"
     },
     {
       "id": 54,
@@ -1493,7 +1491,7 @@
       "manufacturername": " Everest Food Products Pvt. Ltd",
       "manufactureraddress": "Everest Food Products Pvt. Ltd, Krushal Towers, Commercial Soceity, 5Th Road, Brindavan Colony, Tilak Nagar, Chembur, Mumbai, Maharashtra 400089",
       "category": "Masala & DryFruits",
-      "subcategory": "Salt,Sugar & Juggery"
+      "subcategory": "Powders & Pastes"
     },
     {
       "id":103,
