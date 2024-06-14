@@ -1734,6 +1734,19 @@
       "manufactureraddress": " Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048.",
       "category": "Biscuits & Cookies",
       "subcategory": "Digestives"
+    },
+    {
+      "id": 120,
+      "productname": "Cherry Indian",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-500-500,pr-true,f-auto,q-80/inventory/product/683a694b-6546-4ffa-8ef2-964004d84c96-0ad30b51-4901-452f-8771-2bc8e0519c81.jpeg",
+      "quantity": "200 g ",
+      "costprice": 153,
+      "markedprice": "₹192",
+      "description": "  Cherries are succulent with a sour-sweet flavor, especially red cherries. As they darken they flavor better & tasteless sour. Cherries are wealthy in vitamin C, beta carotene, antioxidants as anthocyanins, and quercetin. They advantage us in many ways as it is a foundation of nutrients and vitamins. Cherries are packed with nutrition. They aid in heart health and improve sleep quality. They help in exercise recovery. They help improve in problems like arthritis. It is an energy-boosting fruit and still low in calories.",
+      "country": "India",
+      "shelflife": "3 days",
+      "category": "Fruits & Vegetables",
+      "subcategory": "Fresh Fruits"
     }
     
   ],
