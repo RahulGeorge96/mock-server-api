@@ -999,9 +999,10 @@
     {
       "id": 69,
       "productname": "Pepsi Soft Drink",
-      "url": "https://cdn.zeptonow.com/production///tr:w-1000,ar-2509-5282,pr-true,f-auto,q-80/cms/product_variant/71432eb2-1cce-49ab-b5b2-01724bc5350d.jpeg",
-      "quantity": "750 ml",
-      "costprice": 40,
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/8179296e-bdb0-4392-93a7-2b20c6d19bb4.jpeg",
+      "quantity": "1.25 l",
+      "costprice": 65,
+      "markedprice":"₹68",
       "description": " Pepsi is the pop that shakes things up. Pepsi is ubiquitous on just about every social occasion and is also known to be a party starter.",
       "country": "India",
       "shelflife": "120 days",
