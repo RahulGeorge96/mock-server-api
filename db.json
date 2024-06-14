@@ -1642,7 +1642,7 @@
       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1960-1960,pr-true,f-auto,q-80/cms/product_variant/133c6023-beb1-4f0b-9200-a8c7c5c59b87.jpeg",
       "quantity": "5 kg",
       "costprice": 295,
-      "markedprice":"₹356",
+      "markedprice": "₹356",
       "description": " Aashirvaad ensures that only superior quality ingredients reach your kitchen and Aashirvaad Select Sharbati stays true to that word. Made from the King of Wheat – Sharbati, Aashirvaad Select is a premium quality aata which is made with love in India. This sharbati wheat flour contains 100% MP Sharbati wheat from select regions of Madhya Pradesh.The grains of sharbati atta are heavier and have a golden sheen to it.",
       "country": "India",
       "shelflife": "88 days",
@@ -1699,12 +1699,43 @@
       "description": " A perfect blend of juicy tomatoes and spices, Del Monte Tomato Ketchup offers a mixed taste that caters to the diverse Indian palate. Add it to hamburgers, hot dogs, fries and pasta, etc. and relish the lip-smacking flavour.",
       "country": "India",
       "shelflife": "12 months",
-      "manufacturername":"Del Monte Foods Private Limited",
-      "manufactureraddress":" Del Monte Foods Private Limited, 157/2, Plot No, Tower C-2, First Floor Survey No.155/1 to, 16, Phase IV, Gurugram, Haryana 122015.",
+      "manufacturername": "Del Monte Foods Private Limited",
+      "manufactureraddress": " Del Monte Foods Private Limited, 157/2, Plot No, Tower C-2, First Floor Survey No.155/1 to, 16, Phase IV, Gurugram, Haryana 122015.",
       "category": "BreakFast & Sauces",
       "subcategory": "Ketchup & Sauces"
+    },
+
+    {
+      "id": 118,
+      "productname": "Priya Lime Pickle ",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/64e8b646-6620-4a75-b388-41e63d42a7fc.jpeg",
+      "quantity": "300 g",
+      "costprice": 105,
+      "markedprice": "₹110",
+      "description": "Priya brings you the lime and lemony pickle that has redefined the prominence of curd rice. Made out of farm fresh lemons and ensuring the home-made touch, Priya�s lime pickle is not just yummy but magical in pepping up the dining mood at any time, whether it is breakfast or travel snacks.",
+      "country": "India",
+      "shelflife": "12 months",
+      "manufacturername":"Ushodaya Enterprises Pvt Ltd",
+      "manufactureraddress":"Ushodaya Enterprises Pvt Ltd (Foods Division), 6-3-569/3, Eenadu Complex, Somajiguda, Hyderabad - 500082 (TS).",
+      "category": "Packaged Food",
+      "subcategory": "Papads,Pickles & Chutney"
+    },
+    {
+      "id": 119,
+      "productname": "Britannia Nutri Choice Digestive Biscuits Packet",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/783ee8f1-0553-4322-b804-0c9e65baadbf.jpeg",
+      "quantity": "250 g ",
+      "costprice": 63,
+      "markedprice": "₹70",
+      "description": "  Britannia NutriChoice Digestive Biscuits are fibre rich biscuits packed with the richness of wheat flour (atta) and bran. With every bite, you experience the coarseness of this fibre rich healthy biscuit. These Digestive cookies are baked to precision, making it a perfect healthy snack.",
+      "country": "India",
+      "shelflife": " 7 months",
+      "manufacturername": " Britannia Industries Limited",
+      "manufactureraddress": " Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048.",
+      "category": "Biscuits & Cookies",
+      "subcategory": "Digestives"
     }
-   
+    
   ],
   "user":[{"id":1,"name":"Sanpreet","mobilenumber":"1111","password":"sanpreet"},
   { "id": 2, "name": "Abhishek", "mobilenumber": "2222", "password": "abhishek" },
