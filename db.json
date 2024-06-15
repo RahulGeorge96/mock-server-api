@@ -1465,7 +1465,7 @@
     {
       "id": 101,
       "productname": "Zep Cake Muffin Chocochip",
-      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-3000-3000,pr-true,f-auto,q-80/inventory/product/d9a83719-259c-4d3c-bba0-d1f7359d5ea5-109TP3fOw3juQLa7p-axHkkRE91Y268N6.jpeg",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1004-1004,pr-true,f-auto,q-80/cms/product_variant/1d310247-731f-4604-8ac2-b42230a6f20c.jpeg",
       "quantity": "150 g",
       "costprice": 152,
       "markedprice": "₹169",
@@ -1915,7 +1915,40 @@
       "manufactureraddress": "Nestle India Ltd, House, Jacaranda Marg M Block, Dlf City Phase Ii, National Highway 8, Gurgaon 122 002, India.",
       "category": "Sweet Cravings",
       "subcategory": "Chocolates"
-    }
+    },
+
+     {
+       "id": 132,
+       "productname": "Tata Tea Agni Dust Black Tea",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/980ce542-3cfa-4e0f-82df-dc590c040a05.jpeg",
+       "quantity": "250 g",
+       "costprice": 70,
+       "description": "Tata Agni Dust Tea is made from the finest quality of tea leaves and has a strong aroma to make a perfect cup of tea.",
+       "country": "India",
+       "shelflife": "11 months",
+       "manufacturername": " Tata Global Beverage Ltd",
+       "manufactureraddress": "Tata Consumer Products Ltd Kirloskar Business Park, Block C, 3Rd Floor, Hebbal, Bangalore",
+       "category": "Tea,Coffee & More",
+       "subcategory": "Tea"
+     },
+
+     {
+       "id": 133,
+       "productname": "Parle Hide & Seek Chocolate Chip Cookies",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/ae2cfd34-c7f1-4bf1-b2f6-5517f3c9bbe8.jpeg",
+       "quantity": "412.5g",
+       "costprice": 115,
+       "markedprice":"₹150",
+       "description": " Parle Hide & Seek Chocolate Chip Cookies - Indulge in the rich and indulgent flavor of Parle Hide & Seek Chocolate Chip Cookies. These delicious cookies are made with premium quality ingredients and loaded with rich chocolate chips, offering a perfect balance of sweetness and crunch. Each bite is crispy, chewy, and filled with the irresistible taste of chocolate, making them the perfect treat for any chocolate lover. Whether you enjoy them as a snack or as a dessert, Parle Hide & Seek Chocolate Chip Cookies are sure to satisfy your sweet cravings and leave you wanting more.",
+       "country": "India",
+       "shelflife": "7 months",
+       "manufacturername": " Parle Products Pvt. Ltd",
+       "manufactureraddress": " Parle Products Pvt. Ltd, V.S. Khandekar Marg, Vile Parle East Mumbai - 400057, Maharashtra.",
+       "category": "Biscuits & Cookies",
+       "subcategory": "Cookies"
+     }
+
+
 
 
     
