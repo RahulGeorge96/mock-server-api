@@ -2129,7 +2129,37 @@
        "shelflife": "180 days",
        "category": "Atta,Rice,Oil & Dals",
        "subcategory": "Dals & Pulses"
-     }
+     },
+     {
+       "id": 146,
+       "productname": "Sunfeast Yippee! Magic Masala Noodles",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/bb767370-4129-4e5e-8bb7-5e21609907e1.jpeg",
+       "quantity": "240 g",
+       "costprice": 54,
+       "markedprice": "₹56",
+       "description": " ITC entered the instant noodles segment with the launch of Sunfeast Yippee! in 2010. The sourcing and blending expertise that has made Aashirvaad Indias No 1 branded Atta has been leveraged to create a delightful noodle block. The block being round in shape does not need to be broken while cooking, providing really long slurpy noodles.",
+       "country": "India",
+       "shelflife": "180 days",
+       "manufacturername":"ITC Limited",
+       "manufactureraddress":"ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071.",
+       "category": "Packaged Food",
+       "subcategory": "Noodles & Vermicelli"
+     },
+       {
+         "id": 147,
+         "productname": "MTR Rice Idly Breakfast Mix",
+         "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/d7a57d00-ba6e-4dd3-9c2b-f173d179f768.jpeg",
+         "quantity": "500 g",
+         "costprice": 127,
+         "markedprice": "₹145",
+         "description": "Soft, fluffy, light-as-airidlis. A delicious traditional break fast ready in an instant.",
+         "country": "India",
+         "shelflife": "12 months",
+         "manufacturername": "MTR Foods Pvt. Ltd",
+         "manufactureraddress": "MTR Foods Pvt. Ltd, # 80 Bommasandra Industrial Area, Hebbagodi, Anekal Taluk Bengaluru 560099.",
+         "category": "Packaged Food",
+         "subcategory": "Noodles & Vermicelli"
+       }
   ],
   "user":[{"id":1,"name":"Sanpreet","mobilenumber":"1111","password":"sanpreet"},
   { "id": 2, "name": "Abhishek", "mobilenumber": "2222", "password": "abhishek" },
