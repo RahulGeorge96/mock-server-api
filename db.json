@@ -2057,6 +2057,21 @@
       "manufactureraddress": " Haldiram Snacks Pvt Ltd, 20 Km Stone, Vill. Gumthala, Bhandara Road, Nagpur - 441104 (M.S.).",
       "category": "Munchies & Chips",
       "subcategory": "Namkeens"
+    },
+    {
+      "id": 141,
+      "productname": "Aashirvaad Atta with Multigrains",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1470-1470,pr-true,f-auto,q-80/cms/product_variant/c2fce1cd-38b4-448d-bae5-b876e3dfbbe6.jpeg ",
+      "quantity": "10 kg",
+      "costprice":621 ,
+      "markedprice":"₹744",
+      "description": " Looking to switch to healthier flour option? Look no further. Aashirvaad Atta with Multigrains provides you and your family with wholesome goodness and healthy benefits without compromising on the taste. Made with the choicest of grains sourced from the fields across the country, this atta is made with extreme love and care in India. Aashirvaad Atta with Multigrains is made with 6 natural grains – wheat, maize, oats, soya, channa and psyllium husk.",
+      "country": "India",
+      "shelflife": "90 days",
+      "manufacturername": " ITC Limited",
+      "manufactureraddress": "ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071",
+      "category": "Atta,Rice,Oil & Dals",
+      "subcategory": "Atta & Other Flours"
     }
   ],
   "user":[{"id":1,"name":"Sanpreet","mobilenumber":"1111","password":"sanpreet"},
