@@ -1746,7 +1746,127 @@
       "shelflife": "3 days",
       "category": "Fruits & Vegetables",
       "subcategory": "Fresh Fruits"
-    }
+    },
+     {
+       "id": 121,
+       "productname": "Nandini Goodlife Toned Milk (Pouch Fino)",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/b77067cd-b3b1-4f1a-a4cf-975877844598.jpeg",
+       "quantity": "500 ml ",
+       "costprice": 32,
+       "description": "  Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. It is uitable for preparing tea/coffee, milk shakes and milk delights for people leading a fitness conscious lifestyle.",
+       "country": "India",
+       "shelflife": "90 days",
+       "category": "Dairy,Bread & Eggs",
+       "subcategory": "Milk"
+     },
+
+     {
+       "id": 121,
+       "productname": "Nandini Goodlife Toned Milk (Pouch Fino)",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/b77067cd-b3b1-4f1a-a4cf-975877844598.jpeg",
+       "quantity": "500 ml ",
+       "costprice": 32,
+       "description": "  Goodlife Smart Homogenised Double Toned Milk UHT processed milk with Min 1.5% fat and Min 9.0% SNF fortified with vitamins A and D. It is uitable for preparing tea/coffee, milk shakes and milk delights for people leading a fitness conscious lifestyle.",
+       "country": "India",
+       "shelflife": "90 days",
+       "category": "Dairy,Bread & Eggs",
+       "subcategory": "Milk"
+     },
+
+     {
+       "id": 122,
+       "productname": "Nutty Gritties California Almonds",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/be41ae98-94a1-4727-9100-bb4faeaeabf9.jpeg",
+       "quantity": "1 kg ",
+       "costprice": 846,
+       "markedprice":"₹1350",
+       "description": " Indulge in the rich and buttery flavor of Nutty Gritties California Almonds. Sourced from the sun-drenched orchards of California, these premium almonds are packed with nutrients and bursting with flavor. Whether enjoyed as a wholesome snack or used to add crunch to your favorite dishes, Nutty Gritties California Almonds are sure to delight your taste buds.",
+       "country": "India",
+       "shelflife": " 12 months",
+       "manufacturername":"DRB FOODS PRIVATE LIMITED",
+       "category": "Masala & DryFruits",
+       "subcategory": "Dry Fruits & Nuts "
+     },
+
+     {
+       "id": 123,
+       "productname": "Let's Try Garlic Bhujia",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/f91138cd-f7de-4622-866f-9dceb0708abe.jpeg",
+       "quantity": "200 g",
+       "costprice": 95,
+       "markedprice": "₹100",
+       "description": " Let's Try Garlic Bhujia is a crunchy and flavorful snack that is perfect for munching on anytime you crave something savory. Made with real garlic and a blend of spices, this bhujia is sure to tantalize your taste buds with its bold and aromatic flavor. Whether you're enjoying it on its own or using it to add a burst of flavor to your favorite dishes, Let's Try Garlic Bhujia is the perfect choice for a tasty and satisfying snack. Stock up on this delicious snack and enjoy the irresistible taste of garlic anytime, anywhere.",
+       "country": "India",
+       "shelflife": "6 months",
+       "manufacturername":"Earthcrust",
+       "category": "Munchies & Chips",
+       "subcategory": "Namkeens"
+     },
+
+      {
+        "id": 124,
+        "productname": "Cadbury Chocobakes ChocoChip Cookies",
+        "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1100-1100,pr-true,f-auto,q-80/cms/product_variant/0bdbc939-2005-416f-848d-4ac0856a31e8.jpeg",
+        "quantity": "167 g",
+        "costprice": 65,
+        "markedprice": "₹80",
+        "description": " Experience the new exciting Chocobakes choco chip cookies – Your loved Cadbury, now inside a chocolate cookie. Make moments with your loved ones sweeter – with Chocobakes choco chip cookies.",
+        "country": "India",
+        "shelflife": "6 months",
+        "manufacturername": "Mondelez India Food Pvt. Ltd",
+        "manufactureraddress":"Mondelez India Food Pvt. Ltd, Unit No. 2001, 20th Floor, Tower-3 (Wing C), Indiabulls Finance Centre, Parel, Mumbai, Maharashtra.",
+        "category": "Biscuits & Cookies",
+        "subcategory": "Cookies"
+      },
+      {
+        "id": 125,
+        "productname": "Sunfeast Yippee! Mood Masala Long Instant Noodles",
+        "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/68e37cb4-f254-490d-b360-66f71acbdd58.jpeg",
+        "quantity": "260g",
+        "costprice": 54,
+        "markedprice": "₹72",
+        "description": " What if there was an instant snack for those instant cravings you get? It's time to break the good news to you. Sunfeast YiPPee Mood Masala Instant Noodles is that snack! It is loaded with two masala satchets to satisfy your craving for masaledaar food. Just add the main masala mix, and then add the mood mix and voila - you've got a piping hot bowl of instant noodles full of flavour and fun!",
+        "country": "India",
+        "shelflife": "9 months",
+        "manufacturername": " ITC Ltd",
+        "manufactureraddress": "ITC Food Limited FoodDivision Plot No 1 Sector 11, Bhel, Haridwar 249403.",
+        "category": "Packaged Food",
+        "subcategory": "Noodles & Vermicelli"
+      },
+
+       {
+         "id": 126,
+         "productname": "Ragu Pizza Sauce",
+         "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/6020cd4f-5654-4ffd-84b5-f513c968e827.jpeg",
+         "quantity": "397 g",
+         "costprice": 290,
+         "markedprice": "₹295",
+         "description": " What if there was an instant snack for those instant cravings you get? It's time to break the good news to you. Sunfeast YiPPee Mood Masala Instant Noodles is that snack! It is loaded with two masala satchets to satisfy your craving for masaledaar food. Just add the main masala mix, and then add the mood mix and voila - you've got a piping hot bowl of instant noodles full of flavour and fun!",
+         "country": "India",
+         "shelflife": "24 months",
+         "manufacturername": " ITC Ltd",
+         "manufactureraddress": "ITC Food Limited FoodDivision Plot No 1 Sector 11, Bhel, Haridwar 249403.",
+         "category": "BreakFast & Sauces",
+         "subcategory": "Ketchup & Sauces"
+       },
+
+        {
+          "id": 129,
+          "productname": "iD Instant Coffee Powder",
+          "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/cdf9d10c-5bb7-42fd-b4c7-eaabcbe68f50.jpeg",
+          "quantity": "50 g",
+          "costprice":119,
+          "markedprice": "₹125",
+          "description": " Start your day on a refreshing note with iD Instant Coffee Powder. Made from carefully selected coffee beans, this instant coffee powder is rich, aromatic, and full of flavor. Simply mix it with hot water or milk for a quick and convenient cup of coffee anytime you need a pick-me-up.",
+          "country": "India",
+          "shelflife": "18 months",
+          "manufacturername": " iD Fresh Food (India) Pvt Ltd",
+          "manufactureraddress": "iD Fresh Food (India) Pvt Ltd FoodDivision Plot No 1 Sector 11, Bhel, Haridwar 249403.",
+          "category": "Tea,Coffee & More",
+          "subcategory": "Coffee"
+        }
+
+
     
   ],
   "user":[{"id":1,"name":"Sanpreet","mobilenumber":"1111","password":"sanpreet"},
