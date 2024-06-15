@@ -2103,7 +2103,33 @@
       "manufactureraddress": " Haldiram Snacks Pvt Ltd, 20 Km Stone, Vill. Gumthala, Bhandara Road, Nagpur - 441104 (M.S.).",
       "category": "Munchies & Chips",
       "subcategory": "Namkeens"
-    }
+    },
+    {
+      "id": 144,
+      "productname": "Swetha Telugu Foods Red Chilli Pickle",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/05e3c809-5faf-4360-ab50-f3354d3ff1c3.jpeg",
+      "quantity": "300 g",
+      "costprice": 88,
+      "markedprice":"₹110",
+      "description": " Swetha Telugu Foods Red Chilli Pickle: Add a spicy kick to your meals with Swetha Telugu Foods Red Chilli Pickle. Made with ripe red chilies and aromatic spices, this pickle is bursting with flavor and perfect for enhancing the taste of your favorite dishes. Whether you pair it with rice, chapati, or snacks, this pickle is sure to delight your taste buds.",
+      "country": "India",
+      "shelflife": "14 months",
+      "category": "Packaged Food",
+      "subcategory": "Papads,Pickles & Chutney"
+    },
+     {
+       "id": 145,
+       "productname": "Daily Good Toor Dal Unpolished",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-4596-4596,pr-true,f-auto,q-80/cms/product_variant/67921ecb-25d2-4a18-ae6f-a7c328604d2e.jpeg",
+       "quantity": "1 kg",
+       "costprice": 208,
+       "markedprice": "₹275",
+       "description": " Daily Good Toor Dal Unpolished is a premium quality split pigeon pea lentil perfect for making delicious and nutritious dal recipes. These toor dal lentils are rich in protein and fiber, making them an ideal choice for vegetarian and vegan diets. Add them to your pantry for authentic Indian cooking.",
+       "country": "India",
+       "shelflife": "180 days",
+       "category": "Atta,Rice,Oil & Dals",
+       "subcategory": "Dals & Pulses"
+     }
   ],
   "user":[{"id":1,"name":"Sanpreet","mobilenumber":"1111","password":"sanpreet"},
   { "id": 2, "name": "Abhishek", "mobilenumber": "2222", "password": "abhishek" },
