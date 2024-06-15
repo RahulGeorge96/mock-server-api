@@ -1081,7 +1081,7 @@
       "manufacturername": "Haldiram Snacks Pvt Ltd",
       "manufactureraddress": "Haldiram Snacks Pvt Ltd, 20 Km Stone, Vill. Gumthala, Bhandara Road, Nagpur - 441104 (M.S.).",
       "category": "Munchies & Chips",
-      "subcategory": "Chips"
+      "subcategory": "Namkeens"
     },
     {
       "id": 75,
@@ -1946,7 +1946,120 @@
        "manufactureraddress": " Parle Products Pvt. Ltd, V.S. Khandekar Marg, Vile Parle East Mumbai - 400057, Maharashtra.",
        "category": "Biscuits & Cookies",
        "subcategory": "Cookies"
-     }
+     },
+
+     {
+       "id": 134,
+       "productname": "Nutraj Cashew",
+       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/8eadc026-ca9c-4801-b114-e2d50e87317e.jpeg",
+       "quantity": "1 kg ",
+       "costprice": 745,
+       "markedprice": "₹1499",
+       "description": " Nutraj Cashew - Enjoy the rich and buttery taste of Nutraj Cashew nuts, perfect for snacking or adding to your favorite recipes. These premium quality cashews are carefully selected and roasted to perfection, resulting in a crunchy and delicious treat that's packed with nutrients. Whether you enjoy them on their own, sprinkled over salads, or mixed into trail mixes, Nutraj Cashews are sure to satisfy your cravings and provide a convenient source of energy throughout the day. Treat yourself to the goodness of Nutraj Cashews and experience their irresistible flavor and crunchiness.",
+       "country": "India",
+       "shelflife": "9 months",
+       "manufacturername": " NUTRAJ Products Pvt. Ltd",
+       "manufactureraddress": " NUTRAJ Products Pvt. Ltd, V.S. Khandekar Marg, Vile Parle East Mumbai - 400057, Maharashtra.",
+       "category": "Masala & DryFruits",
+       "subcategory": "Dry Fruits & Nuts "
+     },
+
+      {
+        "id": 135,
+        "productname": "Lay's Classic Salted Potato Chips",
+        "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/9a5a3c22-12a0-401c-9a79-732caa958540.jpeg",
+        "quantity": "50 g",
+        "costprice": 20,
+        "description": "Experience the signature taste with the best quality potatoes sprinkled with salt. Each bag of Lay's Classic Salted Potato Chips is a reminder of how good the simple life is. From the everyday snack to the impromptu get-togethers, Lays chips are the perfect addition to any occasion. Whether its party time or family time, everyone loves gathering around the chip bowl. About the brand: Lays, the worlds largest and favourite snack food brand, has steadily established itself as an indispensable part of Indias snacking culture since its launch in 1995.",
+        "country": "India",
+        "shelflife": "9 months",
+        "manufacturername": "  Pepsico India Holdings Private Limited",
+        "manufactureraddress": "Pepsico India Holdings Private Limited, Tower-A4th Floor, Mehrauli Gurgaon Road, Gurgaon City, Gurgaon - 122001.",
+        "category": "Munchies & Chips",
+        "subcategory": "Chips"
+      },
+
+      {
+        "id": 136,
+        "productname": "Britannia Gobbles Choco Chill",
+        "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/56d87bba-502d-4cf6-8a2b-598c62f8bcdc.jpeg",
+        "quantity": "110 g",
+        "costprice": 28,
+        "markedprice":"₹30",
+        "description": "Britannia Chocolate Cake has soft and delicious cake slices with the goodness of chocolate, milk and eggs. With each bite feel the richness and smoothness of chocolate which gives mouth-watering flavour. Britannia Cakes have soft spongy and fluffy slices that deliciously melts in your mouth.",
+        "country": "India",
+        "shelflife": "119 days",
+        "manufacturername": " Britannia Industries Limited",
+        "manufactureraddress": "Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048.",
+        "category": "Sweet Cravings",
+        "subcategory": "Pastries & Cakes"
+      },
+
+      {
+        "id": 137,
+        "productname": "Fortune Soya Chunks",
+        "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/90c62c17-89b8-48e3-b22d-031c58a50437.jpeg",
+        "quantity": "1 kg",
+        "costprice": 28,
+        "markedprice": "₹180",
+        "description": "Do your family need champion wala dum aur yum ? Fortune Soya Chunk has 15 times more protein than milk which gives strength. It is healthy because it is 99% fat-free. It has got a unique combination of 9 essential amino acids necessary for human growth.",
+        "country": "India",
+        "shelflife": "12 months",
+        "manufacturername": " Adani Wilmar Limited",
+        "manufactureraddress": "Adani Wilmar Limited, Soya Complex, Sanchi Road, Vidisha - 464001, Madhya Pradesh, India",
+        "category": "Atta,Rice,Oil & Dals",
+        "subcategory": "Dals & Pulses"
+      },
+
+       {
+         "id": 138,
+         "productname": "GOELD Aloo Paratha",
+         "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/4c99553e-d70b-4c45-9eac-cbe514751097.jpeg",
+         "quantity": "400 g ",
+         "costprice": 94,
+         "markedprice": "₹95",
+         "description": "GOELD Aloo Paratha - Treat yourself to the authentic taste of Indian cuisine with GOELD Aloo Paratha. Made with flavorful mashed potatoes and traditional spices, these stuffed parathas are perfect for a hearty breakfast or a satisfying meal anytime. Simply heat and serve for a delicious dining experience.",
+         "country": "India",
+         "shelflife": "18 months",
+         "category": "FrozenFood & IceCreams",
+         "subcategory": "Frozen Food"
+       },
+       
+
+       
+       {
+         "id": 139,
+         "productname": "Britannia Goodday Chocochip Cookies",
+         "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-3963-2854,pr-true,f-auto,q-80/cms/product_variant/ae40882d-95d0-40a9-bf7d-73d034576918.jpeg  ",
+         "quantity": "400 g ",
+         "costprice": 99,
+         "markedprice": "₹140",
+         "description": "Britannia Good Day Chocochip Cookies are crunchy chocolate cookies loaded with melt in your mouth chocolate chips. These cookies offer a delicious chocolate experience that is sure to satisfy any chocolate craving.Britannia biscuits, cookies, cakes and rusk are a perfect companion for your tea. Believing in delivering wholesome and delicious products, Britannia India manufactures some of India's favourite brands like 50-50, Tiger, NutriChoice, Bourbon, Milk Bikis and Marie Gold.",
+         "country": "India",
+         "shelflife": "8 months",
+         "manufacturername":" Britannia Industries Limited",
+         "manufactureraddress":"Bangalore - Prestige Shantiniketan, Tower C, The Business Precinct, 16th & 17th Floor, Whitefield Main Road, Mahadevapura Post, Bangalore - 560 048.",
+         "category": "Biscuits & Cookies",
+         "subcategory": "Cookies"
+       },
+
+
+        {
+          "id": 140,
+          "productname": "Haldirams Nagpur Ratlami Sev",
+          "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/6bbebc6d-deec-473a-be7a-944926a55af8.jpeg ",
+          "quantity": "400 g ",
+          "costprice": 88,
+          "description": "Haldiram's Nagpur Bhujia Sev 350 g Haldiram's Nagpur Bhujia Sev is the perfect option if you are craving a tasty, between-meals snack. Enjoy it with your tea or coffee or as a standlone treat. Your family and friends are sure going to ask for more.",
+          "country": "India",
+          "shelflife": "180 days",
+          "manufacturername": " Haldiram Snacks Pvt Ltd",
+          "manufactureraddress": " Haldiram Snacks Pvt Ltd, 20 Km Stone, Vill. Gumthala, Bhandara Road, Nagpur - 441104 (M.S.).",
+          "category": "Munchies & Chips",
+          "subcategory": "Namkeens"
+        }
+
+
 
 
 
