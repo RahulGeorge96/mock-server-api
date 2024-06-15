@@ -2089,6 +2089,20 @@
       "manufactureraddress": "Mondelez India Food Pvt. Ltd, Unit No. 2001, 20th Floor, Tower-3 (Wing C), Indiabulls Finance Centre, Parel, Mumbai, Maharashtra.",
       "category": "Sweet Cravings",
       "subcategory": "Chocolates"
+    },
+    {
+      "id": 143,
+      "productname": "Haldirams Namkeen - Chatpata Dal",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/dbb6b1de-b205-4893-b569-5d5ea57ebaef.jpeg",
+      "quantity": "200 g",
+      "costprice": 47,
+      "description": " Haldirams Chatpata Dal is one of their zesty and yummy snacks to be liked by most people. Haldiram Chatpata Dal saltier is the pleasant mix of Bengal Gram, Peanut Oil, Pulse, Salt, Mix Spices and Citric Acid. It is a delicious, warm and sour treat of gram crunchy and brittle; you get a burst of peppery flavour in your mouth.",
+      "country": "India",
+      "shelflife": "9 months",
+      "manufacturername": "Haldiram Snacks Pvt Ltd",
+      "manufactureraddress": " Haldiram Snacks Pvt Ltd, 20 Km Stone, Vill. Gumthala, Bhandara Road, Nagpur - 441104 (M.S.).",
+      "category": "Munchies & Chips",
+      "subcategory": "Namkeens"
     }
   ],
   "user":[{"id":1,"name":"Sanpreet","mobilenumber":"1111","password":"sanpreet"},
