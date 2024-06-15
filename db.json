@@ -874,21 +874,21 @@
       "category": "Tea,Coffee & More",
       "subcategory": "Tea"
     },
-    {
+
+      {
       "id": 61,
-      "productname": "NIC Dryfruit Over Load",
-      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/c89eda28-db7d-4961-a21e-c06940922f5d.jpeg",
-      "quantity": "100 ml",
-      "costprice": 72,
-      "markedprice": "₹100",
-      "description": "  Treat yourself to the richness of NIC Dryfruit Over Load. Packed with a mix of premium dry fruits and nuts, this indulgent snack is perfect for satisfying your cravings for something sweet and wholesome. Whether enjoyed as a midday treat or after-meal dessert, this dryfruit over load is sure to delight your taste buds with its rich flavors and textures.",
+      "productname": "GOELD Aloo Paratha",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/4c99553e-d70b-4c45-9eac-cbe514751097.jpeg",
+      "quantity": "400 g ",
+      "costprice": 94,
+      "markedprice": "₹95",
+      "description": "GOELD Aloo Paratha - Treat yourself to the authentic taste of Indian cuisine with GOELD Aloo Paratha. Made with flavorful mashed potatoes and traditional spices, these stuffed parathas are perfect for a hearty breakfast or a satisfying meal anytime. Simply heat and serve for a delicious dining experience.",
       "country": "India",
-      "shelflife": "39 days",
-      "manufacturername": " Walko QSR Company Pvt Ltd",
-      "manufactureraddress": "Walko QSR Company Pvt Ltd, No 50, Gokhale Rd, Dadar West, Dadar, Mumbai, Maharashtra 400028.",
+      "shelflife": "18 months",
       "category": "FrozenFood & IceCreams",
-      "subcategory": "Single Pack"
+      "subcategory": "Frozen Food"
     },
+  
     {
       "id": 62,
       "productname": "Sunfeast Marie Light Biscuits - Active",
@@ -2014,16 +2014,18 @@
 
     {
       "id": 138,
-      "productname": "GOELD Aloo Paratha",
-      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/4c99553e-d70b-4c45-9eac-cbe514751097.jpeg",
-      "quantity": "400 g ",
-      "costprice": 94,
-      "markedprice": "₹95",
-      "description": "GOELD Aloo Paratha - Treat yourself to the authentic taste of Indian cuisine with GOELD Aloo Paratha. Made with flavorful mashed potatoes and traditional spices, these stuffed parathas are perfect for a hearty breakfast or a satisfying meal anytime. Simply heat and serve for a delicious dining experience.",
+      "productname": "NIC Dryfruit Over Load",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/c89eda28-db7d-4961-a21e-c06940922f5d.jpeg",
+      "quantity": "100 ml",
+      "costprice": 72,
+      "markedprice": "₹100",
+      "description": "  Treat yourself to the richness of NIC Dryfruit Over Load. Packed with a mix of premium dry fruits and nuts, this indulgent snack is perfect for satisfying your cravings for something sweet and wholesome. Whether enjoyed as a midday treat or after-meal dessert, this dryfruit over load is sure to delight your taste buds with its rich flavors and textures.",
       "country": "India",
-      "shelflife": "18 months",
+      "shelflife": "39 days",
+      "manufacturername": " Walko QSR Company Pvt Ltd",
+      "manufactureraddress": "Walko QSR Company Pvt Ltd, No 50, Gokhale Rd, Dadar West, Dadar, Mumbai, Maharashtra 400028.",
       "category": "FrozenFood & IceCreams",
-      "subcategory": "Frozen Food"
+      "subcategory": "Single Pack"
     },
 
     {
