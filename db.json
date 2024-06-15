@@ -614,18 +614,20 @@
     },
     {
       "id": 43,
-      "productname": "Cadbury 5 Star Chocolate Bar",
-      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-316-316,pr-true,f-auto,q-80/cms/product_variant/2b8b7612-79a6-4787-a807-ec08df0f2f86.jpeg",
-      "quantity": "38 g",
-      "costprice": 20,
-      "description": "  Cadbury 5 Star do nothing but munch on this delicious chocolate bar. Indulge in Five Star chocolate, a smooth textured caramel chocolate. Dive into the chocolaty, creamy centre of this Cadbury milk chocolate & get lost in the long-lasting chewy experience of melted caramel & nougat. Gift yourself a 5 Star chocolate pack which is also now available in new variants like 5 Star 3D, 5 Star Oreo & is also available in a share pack home treat bag.",
+      "productname": "Cadbury Chocobakes ChocLayered Cakes",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1100-1100,pr-true,f-auto,q-80/cms/product_variant/6c89dbf3-bdf7-414d-bcef-4a74e690b953.jpeg ",
+      "quantity": "114 g",
+      "costprice": 76,
+      "markedprice": "₹744",
+      "description": " Experience the new exciting Chocobakes chocolate layered cakes – Your loved Cadbury, now inside a chocolate cake. Make moments with your loved ones sweeter – with Chocobakes cakes.",
       "country": "India",
-      "shelflife": "9 months",
-      "manufacturername": "Mondelez India Foods Private Limited",
+      "shelflife": "8 months",
+      "manufacturername": " Mondelez India Foods Private Limited",
       "manufactureraddress": "Mondelez India Food Pvt. Ltd, Unit No. 2001, 20th Floor, Tower-3 (Wing C), Indiabulls Finance Centre, Parel, Mumbai, Maharashtra.",
       "category": "Sweet Cravings",
-      "subcategory": "Chocolates"
+      "subcategory": "Pastries & Cakes"
     },
+
     {
       "id": 44,
       "productname": "Doritos Nacho Chips - Cheese Flavour",
@@ -875,7 +877,7 @@
       "subcategory": "Tea"
     },
 
-      {
+    {
       "id": 61,
       "productname": "GOELD Aloo Paratha",
       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/4c99553e-d70b-4c45-9eac-cbe514751097.jpeg",
@@ -888,7 +890,7 @@
       "category": "FrozenFood & IceCreams",
       "subcategory": "Frozen Food"
     },
-  
+
     {
       "id": 62,
       "productname": "Sunfeast Marie Light Biscuits - Active",
@@ -2063,8 +2065,8 @@
       "productname": "Aashirvaad Atta with Multigrains",
       "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1470-1470,pr-true,f-auto,q-80/cms/product_variant/c2fce1cd-38b4-448d-bae5-b876e3dfbbe6.jpeg ",
       "quantity": "10 kg",
-      "costprice":621 ,
-      "markedprice":"₹744",
+      "costprice": 621,
+      "markedprice": "₹744",
       "description": " Looking to switch to healthier flour option? Look no further. Aashirvaad Atta with Multigrains provides you and your family with wholesome goodness and healthy benefits without compromising on the taste. Made with the choicest of grains sourced from the fields across the country, this atta is made with extreme love and care in India. Aashirvaad Atta with Multigrains is made with 6 natural grains – wheat, maize, oats, soya, channa and psyllium husk.",
       "country": "India",
       "shelflife": "90 days",
@@ -2072,6 +2074,21 @@
       "manufactureraddress": "ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071",
       "category": "Atta,Rice,Oil & Dals",
       "subcategory": "Atta & Other Flours"
+    },
+
+    {
+      "id": 142,
+      "productname": "Cadbury 5 Star Chocolate Bar",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-316-316,pr-true,f-auto,q-80/cms/product_variant/2b8b7612-79a6-4787-a807-ec08df0f2f86.jpeg",
+      "quantity": "38 g",
+      "costprice": 20,
+      "description": "  Cadbury 5 Star do nothing but munch on this delicious chocolate bar. Indulge in Five Star chocolate, a smooth textured caramel chocolate. Dive into the chocolaty, creamy centre of this Cadbury milk chocolate & get lost in the long-lasting chewy experience of melted caramel & nougat. Gift yourself a 5 Star chocolate pack which is also now available in new variants like 5 Star 3D, 5 Star Oreo & is also available in a share pack home treat bag.",
+      "country": "India",
+      "shelflife": "9 months",
+      "manufacturername": "Mondelez India Foods Private Limited",
+      "manufactureraddress": "Mondelez India Food Pvt. Ltd, Unit No. 2001, 20th Floor, Tower-3 (Wing C), Indiabulls Finance Centre, Parel, Mumbai, Maharashtra.",
+      "category": "Sweet Cravings",
+      "subcategory": "Chocolates"
     }
   ],
   "user":[{"id":1,"name":"Sanpreet","mobilenumber":"1111","password":"sanpreet"},
