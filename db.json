@@ -788,18 +788,17 @@
     },
     {
       "id": 55,
-      "productname": "Amul Cheese Slices",
-      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1000-1000,pr-true,f-auto,q-80/cms/product_variant/058d4dee-7a74-436c-b7e1-a0aa819b38ba.jpeg",
-      "quantity": "100 g",
-      "costprice": 84,
-      "markedprice": "₹85",
-      "description": " Amul Cheese can enhance the taste of any dish, whether you consume it whole or melt it in your food. Amul Cheese Processed Cheese Spread is made from high-quality ingredients and is prepared using graded cow/buffalo milk and microbial rennet. It is a perfect addition for stuffing sandwiches, burgers, omelettes etc.",
+      "productname": "MAGGI Special Masala Instant Noodles",
+      "url": "https://cdn.zeptonow.com/production///tr:w-400,ar-1021-1021,pr-true,f-auto,q-80/cms/product_variant/840346b4-66dd-4bbe-b606-1b615d986589.jpeg",
+      "quantity": "70 g",
+      "costprice": 20,
+      "description": " Nestle MAGGI 2-minutes masala noodles have been a classic indian snack since more than a decade. To take your favourite masala taste experience to the next level, MAGGI introduces the new MAGGI special masala noodles, a recipe of 20 spices and herbs that provides a more redefined MAGGI masala experience. Made with a blend of finely ground and whole spices, and herbs, the all new MAGGI instant noodles have an extra special and flavourful tastemaker sachet inside. These spices have been roasted to perfection, providing a distinct aroma and colour to your MAGGI noodles.",
       "country": "India",
-      "shelflife": "9 months",
-      "manufacturername": "Gujarat Co-Operative Milk Marketing Federation",
-      "manufactureraddress": "Gujarat Co-Operative Milk Marketing Federation, Po Box 10, Amul Dairy Road, Anand 388 001, Gujarat, India.",
-      "category": "BreakFast & Sauces",
-      "subcategory": "Cheese"
+      "shelflife": "8 months",
+      "manufacturername": "Nestle India Ltd",
+      "manufactureraddress": "Nestle India Ltd, Nestle House, Jacaranda Marg M Block, DLF City Phase II, National Highway 8, Gurgaon 122 002, India.",
+      "category": "Packaged Food",
+      "subcategory": "Noodles & Vermicelli"
     },
     {
       "id": 56,
