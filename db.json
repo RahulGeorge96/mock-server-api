@@ -3066,8 +3066,8 @@
     "photos": ["https://via.placeholder.com/600x400"]
   }
   ],
-  "register":[],
-  "login":[]
+  "register":[{}],
+  "login":[{}]
 
 
   
