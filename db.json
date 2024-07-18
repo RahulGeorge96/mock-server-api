@@ -3065,6 +3065,10 @@
     "amenities": ["WiFi", "Swimming Pool", "Gym"],
     "photos": ["https://via.placeholder.com/600x400"]
   }
-  ]
+  ],
+  "register":[],
+  "login":[]
+
+
   
 }
